@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ad_address_list_ignore">
+        <item>do_not_reply@apple.com</item>
+        <item>order_acknowledgment@orders.apple.com</item>
+        <item>appstore@insideapple.apple.com</item>
+        <item>developer@insideapple.apple.com</item>
+        <item>noreply@email.apple.com</item>
+        <item>no_reply@icloud.gzdata.com.cn</item>
+        <item>no_reply@email.apple.com</item>
+    </string-array>
+    <string-array name="all_month_str">
+        <item>Gen</item>
+        <item>Feb</item>
+        <item>Mar</item>
+        <item>Apr</item>
+        <item>Maggio</item>
+        <item>Giu</item>
+        <item>Lug</item>
+        <item>Ago</item>
+        <item>Set</item>
+        <item>Ott</item>
+        <item>Nov</item>
+        <item>Dic</item>
+    </string-array>
+    <string-array name="alphabet_chars">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>\#</item>
+        <item>∅</item>
+    </string-array>
+    <string-array name="alphabet_chars2">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="calendar_remind_string_array">
+        <item>Stanotte</item>
+        <item>domani</item>
+        <item>Fine settimana</item>
+        <item>Prossima settimana</item>
+        <item>Mese successivo</item>
+        <item>Scegli una data</item>
+    </string-array>
+    <string-array name="error_message_respond">
+        <item>LOGIN  Errore di login o password</item>
+        <item>LOGIN  Errore password di login</item>
+        <item>Utente o password di accesso non validi</item>
+        <item>LOGIN fallito, nome utente/password non valido</item>
+        <item>LOGIN errno:1424, account not exist(md return:2100001)</item>
+        <item>ERR.LOGIN.DOMAINNOTEXIST</item>
+        <item>Si prega di utilizzare il codice autorizzato per effettuare il login. Ulteriori informazioni su https://service.mail.qq.com/cgi-bin/help?subtype=1&amp;&amp;no=1001607&amp;&amp;id=28</item>
+        <item>Il codice autorizzato non è corretto. Ulteriori informazioni su https://service.mail.qq.com/cgi-bin/help?subtype=1&amp;&amp;no=1001607&amp;&amp;id=28</item>
+        <item>LOGIN Errore di login utente sospeso</item>
+        <item>LOGIN failure, 楠岃瘉澶辫触锛\ufffd</item>
+        <item>LOGIN errno:1423, user password error(sp return:2200019)</item>
+        <item>AUTHENTICATIONFAILED LOGIN Credenziali non valide</item>
+        <item>Accesso fallito. Password non corretta o servizio non aperto</item>
+        <item>LOGIN imap4 nosupport</item>
+        <item>LOGIN errno:1328, custom imap off</item>
+        <item>LOGIN Errore di login utente sospeso</item>
+        <item>LOGIN utente in lista nera</item>
+        <item>LOGIN fallito. L\'account è bloccato. Accedi al tuo account tramite un browser web per verificare la tua identità.</item>
+        <item>LOGIN utente in lista nera</item>
+        <item>LOGIN errno:1412 status=51 La password non è stata cambiata per molto tempo. Per favore modifica la password. http://mail.10086.cn</item>
+        <item>LOGIN imap4 nosupport</item>
+        <item>LOGIN fallito. L\'account è bloccato. Accedi al tuo account tramite un browser web per verificare la tua identità.</item>
+        <item>ERR utente o password non validi</item>
+        <item>Accesso fallito. Utilizzare la password dell\'app per effettuare il login. Ulteriori informazioni su http://service.exmail.qq.com/cgi-bin/help?subtype=1&amp;&amp;id=10000&amp;&amp;no=1001494</item>
+        <item>ERR custom pop3 off</item>
+        <item>LOGIN Login Errore nome utente o password</item>
+        <item>Nome utente o password non validi</item>
+        <item>in blacklist, per favore cambia la tua rete o accedi a https://mail.sohu.com per configurare la lista esclusioni il client ip</item>
+        <item>java.net.UnknownHostException: Impossibile risolvere l\'host</item>
+        <item>client disabilitato, si prega di cambiare stato sul sito https://mail.sohu.com</item>
+        <item>nessuna password iniziale, effettua il login https://mail.sohu.com per generare la password del client</item>
+    </string-array>
+    <string-array name="general_preference_text_zoom_summary_array">
+        <item>Testo molto piccolo</item>
+        <item>Piccolo</item>
+        <item>Normale</item>
+        <item>Largo</item>
+        <item>Testo molto grande</item>
+    </string-array>
+    <string-array name="general_preference_text_zoom_values">
+        <item>molto piccolo</item>
+        <item>piccolo</item>
+        <item>normale</item>
+        <item>grande</item>
+        <item>enorme</item>
+    </string-array>
+    <string-array name="invoice_card_keyword">
+        <item>Fattura</item>
+    </string-array>
+    <string-array name="invoice_card_pdf_keyword">
+        <item>Fattura</item>
+        <item>fattura</item>
+    </string-array>
+    <string-array name="menu_att_mgr_sort_string_array">
+        <item>Predefinito</item>
+        <item>Formato</item>
+        <item>Nome</item>
+        <item>Mittente</item>
+        <item>Data di ricezione</item>
+    </string-array>
+    <string-array name="moveto_folder_sections">
+        <item>Sistema</item>
+        <item>Usato Frequentemente</item>
+        <item>Tutte le cartelle</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>Più nuovi</item>
+        <item>Più vecchi</item>
+        <item>In arrivo</item>
+    </string-array>
+    <string-array name="prefEntries_contact_add">
+        <item>Tutto</item>
+        <item>Solo mittenti</item>
+    </string-array>
+    <string-array name="prefValues_autoAdvance">
+        <item>più recente</item>
+        <item>più vecchio</item>
+        <item>list</item>
+    </string-array>
+    <string-array name="prefValues_restart_detail_conversation">
+        <item>1</item>
+        <item>5</item>
+        <item>15</item>
+        <item>30</item>
+    </string-array>
+    <string-array name="sign_in_dialog_item">
+        <item>Accesso al protocollo imap di Outlook oauth</item>
+        <item>IMAP (senza calendario)</item>
+        <item>EXCHANGE (con calendario)</item>
+    </string-array>
+    <string-array name="signature_normal_string_array">
+        <item>Blog:</item>
+        <item>Sito:</item>
+        <item>E-mail:</item>
+        <item>Cell:</item>
+        <item>Telefono:</item>
+        <item>T:</item>
+        <item>www.</item>
+        <item>F:</item>
+        <item>E:</item>
+        <item>E-mail:</item>
+        <item>Tel:</item>
+        <item>Fax:</item>
+        <item>Posta:</item>
+        <item>QQ:</item>
+        <item>MSN:</item>
+    </string-array>
+    <string-array name="signature_normal_string_array_next">
+        <item>Indirizzo:</item>
+        <item>Tel:</item>
+        <item>Nome:</item>
+        <item>E-mail:</item>
+        <item>Cellulare:</item>
+        <item>WeChat:</item>
+        <item>Fax:</item>
+        <item>CAP:</item>
+    </string-array>
+    <string-array name="signature_special_string_array">
+        <item>Avviso:</item>
+        <item>Avviso email</item>
+        <item>Inviato da WPSMail</item>
+        <item>Inviato da</item>
+        <item>Inviato con</item>
+        <item>Grazie,</item>
+        <item>Cordiali saluti</item>
+    </string-array>
+    <string-array name="signature_special_string_array_next">
+        <item>Grazie,</item>
+        <item>Cordiali saluti</item>
+        <item>Inviato dal mio</item>
+        <item>Email originale</item>
+        <item>Inviato dal mio</item>
+        <item>Inviato da</item>
+        <item>Da</item>
+        <item>Questa email</item>
+        <item>Avviso</item>
+        <item>Avviso email</item>
+    </string-array>
+    <string-array name="smtp_host_prefixes">
+        <item>pop3</item>
+        <item>pop</item>
+        <item>imap</item>
+    </string-array>
+</resources>

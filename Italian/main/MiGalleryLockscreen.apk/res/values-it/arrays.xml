@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="account_user_gender_name">
+        <item>Maschio</item>
+        <item>Femmina</item>
+    </string-array>
+    <string-array name="feature_desc">
+        <item>Ottimizzato per utenti internazionali da Xiaomi.eu</item>
+    </string-array>
+    <string-array name="month12">
+        <item>Gennaio</item>
+        <item>Febbraio</item>
+        <item>Marzo</item>
+        <item>Aprile</item>
+        <item>Maggio</item>
+        <item>Giugno</item>
+        <item>Luglio</item>
+        <item>Agosto</item>
+        <item>Settembre</item>
+        <item>Ottobre</item>
+        <item>Novembre</item>
+        <item>Dicembre</item>
+    </string-array>
+</resources>

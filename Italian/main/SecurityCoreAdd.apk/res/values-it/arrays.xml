@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string-array name="altgr_keyboard_layout_list">
+        <item>keyboard_layout_spanish</item>
+        <item>keyboard_layout_french</item>
+        <item>keyboard_layout_german</item>
+     </string-array>
+     <string-array name="strg_keyboard_layout_list">
+        <item>keyboard_layout_german</item>
+     </string-array>
+    <string-array name="choose_ask_type">
+        <item>Chiedi sempre</item>
+        <item>App predefinita</item>
+        <item>App clonate</item>
+    </string-array>
+    <string-array name="switch_apps_entries">
+        <item>Utilizzata nel Primo Spazio</item>
+        <item>Utilizzata nello spazio attuale</item>
+        <item>Utilizzata in entrambi gli spazi</item>
+    </string-array>
+    <string-array name="switch_apps_msg_confirms">
+        <item>I dati dell\'app verranno persi dopo che le app saranno spostate nel Primo Spazio.</item>
+        <item>I dati dell\'app verranno persi dopo che le app verranno spostate nello spazio attuale.</item>
+        <item>Le app sono utilizzate in entrambi gli spazi.</item>
+    </string-array>
+    <string-array name="switch_apps_title_confirms">
+        <item>I dati dell\'app verranno persi</item>
+        <item>I dati dell\'app verranno persi</item>
+        <item>Attenzione</item>
+    </string-array>
+</resources>

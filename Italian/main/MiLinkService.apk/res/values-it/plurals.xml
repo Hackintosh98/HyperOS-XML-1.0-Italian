@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <plurals name="car_map_hour">
+        <item quantity="other">%d ore</item>
+        <item quantity="one">%d ora</item>
+     </plurals>
+     <plurals name="car_map_kilometre">
+        <item quantity="other">%d km</item>
+        <item quantity="one">%d km</item>
+     </plurals>
+     <plurals name="car_map_kilometre_decimal">
+        <item quantity="other">%.1f km</item>
+        <item quantity="one">%.1f km</item>
+     </plurals>
+     <plurals name="car_map_meter">
+        <item quantity="other">%d m</item>
+        <item quantity="one">%d m</item>
+     </plurals>
+     <plurals name="car_map_minute">
+        <item quantity="other">%d minuti</item>
+        <item quantity="one">%d minuti</item>
+     </plurals>
+     <plurals name="controller_auth_count_down">
+        <item quantity="other">inserisci il codice da %1$s (%2$d secs)</item>
+        <item quantity="one">inserisci il codice da %1$s (%2$d sec)</item>
+     </plurals>
+    <plurals name="a_hour_ago">
+        <item quantity="one">un\'ora fa</item>
+        <item quantity="other">un\'ora fa</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="one">un\'ora fa</item>
+        <item quantity="other">un\'ora fa</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="one">mezz\'ora fa</item>
+        <item quantity="other">mezz\'ora fa</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="one">Tra 1 ora</item>
+        <item quantity="other">Tra 1 ora</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="one">Tra mezz\'ora</item>
+        <item quantity="other">Tra mezz\'ora</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="one">Subito</item>
+        <item quantity="other">adesso</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">tra %d minuti</item>
+        <item quantity="one">tra 1 minuto</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="one">Proprio adesso</item>
+        <item quantity="other">ora</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d minuti fa</item>
+        <item quantity="one">1 minuto fa</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="one">mezz\'ora fa</item>
+        <item quantity="other">mezz\'ora fa</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="one">Tra 1 ora</item>
+        <item quantity="other">Tra 1 ora</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="one">Tra mezz\'ora</item>
+        <item quantity="other">Tra mezz\'ora</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="one">Subito</item>
+        <item quantity="other">adesso</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">tra %d minuti</item>
+        <item quantity="one">tra 1 minuto</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="one">Proprio adesso</item>
+        <item quantity="other">ora</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d elementi selezionati</item>
+        <item quantity="one">%d elemento selezionato</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d minuti fa</item>
+        <item quantity="one">1 minuto fa</item>
+    </plurals>
+</resources>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="debug_mode_protocol_entries">
+        <item>Predefinito</item>
+        <item>MiPlay</item>
+        <item>Miracast</item>
+        <item>AirKan</item>
+        <item>LeLink</item>
+        <item>DLNA</item>
+    </string-array>
+    <string-array name="alphabet_sub_table_with_starred">
+        <item>!</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>\#</item>
+     </string-array>
+     <string-array name="multi_floating_package_allow_list">
+        <item>com.miui.securitycenter</item>
+        <item>com.miui.weather2</item>
+        <item>com.android.calendar</item>
+        <item>com.android.contacts</item>
+        <item>com.android.mms</item>
+        <item>com.miui.notes</item>
+        <item>com.android.settings</item>
+        <item>com.miui.gallery</item>
+        <item>com.miui.cloudservice</item>
+        <item>com.android.deskclock</item>
+     </string-array>
+     <string-array name="settings_search_connect_car">
+        <item>Combina le app</item>
+        <item>Interconnectivity/Combine apps</item>
+        <item>caratteristiche dell'auto</item>
+     </string-array>
+     <string-array name="settings_search_connection_home">
+        <item>Interconnettività</item>
+        <item>Interconnettività/Interconnettività</item>
+        <item>Interconnettività dei dispositivi, Servizi di interconnettività dei dispositivi, Xiaomi, Xiaomi AIoT, AIoT, Screen Combo, connessione intelligente, Mi Smart Hub, Interconnettività, Duo, telefono Xiaomi, laptop Xiaomi, Multiscreen, Duet, casting, combinare le app, handoff, App handoff, Mirror, ecosistema Xiaomi, connessione dei dispositivi</item>
+        </string-array>
+     <string-array name="settings_search_connection_privacy">
+        <item>Privacy</item>
+        <item>Interconnettività/Privacy</item>
+        <item>Privacy e interconnettività, Privacy</item>
+     </string-array>
+     <string-array name="settings_search_connection_service">
+        <item>Servizi di interconnettività </item>
+        <item>Interconnettività/Servizi di interconnettività</item>
+        <item>Servizi di interconnettività</item>
+     </string-array>
+     <string-array name="settings_search_relay_app">
+        <item>App handoff</item>
+        <item>interconnettività/App handoff</item>
+        <item>Trasferisci app, handoff, Trasferisci</item>
+     </string-array>
+     <string-array name="settings_search_relay_call">
+        <item>Chiamate</item>
+        <item>Interconnettività/Chiamate</item>
+        <item>Chiamate</item>
+     </string-array>
+     <string-array name="settings_search_relay_network">
+        <item>Assistenza di rete</item>
+        <item>Interconnettività/Assistenza di rete</item>
+        <item>Assistenza di rete, tethering, condivisione hotspot</item>
+     </string-array>
+     <string-array name="settings_search_share_Launcher">
+        <item>Home screen+</item>
+        <item>Interconnectivity/Home screen+</item>
+        <item>Home screen+, Mi Smart Hub, screen sharing</item>
+     </string-array>
+     <string-array name="settings_search_share_clipboard">
+        <item>Appunti</item>
+        <item>interconnettività/Appunti</item>
+        <item>Appunti</item>
+     </string-array>
+     <string-array name="settings_search_share_notify">
+        <item>Notifiche su più dispositivi</item>
+        <item>Interconnettività/Notifiche</item>
+        <item>Notifiche su più dispositivi</item>
+     </string-array>
+</resources>

@@ -1,0 +1,1011 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="account_user_gender_name">
+        <item>Maschio</item>
+        <item>Femmina</item>
+    </string-array>
+    <string-array name="aivs_huami_command_list">
+        <item>"Che tempo fa?"</item>
+        <item>"Quanti passi ho fatto?"</item>
+        <item>Trova il mio telefono.</item>
+    </string-array>
+    <string-array name="common_week_array">
+        <item>Dom</item>
+        <item>Lun</item>
+        <item>Mar</item>
+        <item>Mer</item>
+        <item>Gio</item>
+        <item>Ven</item>
+        <item>Sab</item>
+    </string-array>
+    <string-array name="date_week">
+        <item>Lunedì</item>
+        <item>Martedì</item>
+        <item>Mercoledì</item>
+        <item>Giovedì</item>
+        <item>Venerdì</item>
+        <item>Sabato</item>
+        <item>Domenica</item>
+    </string-array>
+    <string-array name="device_settings_cities_names_miui">
+        <item>Abidjan</item>
+        <item>Accra</item>
+        <item>Addis Ababa</item>
+        <item>Algiers</item>
+        <item>Blantyre</item>
+        <item>Brazzaville</item>
+        <item>Cairo</item>
+        <item>Casablanca</item>
+        <item>Conakry</item>
+        <item>Dakar</item>
+        <item>Dar es Salaam</item>
+        <item>Gibuti</item>
+        <item>Freetown</item>
+        <item>Gaborone</item>
+        <item>Harare</item>
+        <item>Johannesburg</item>
+        <item>Kampala</item>
+        <item>Khartoum</item>
+        <item>Kigali</item>
+        <item>Kinshasa</item>
+        <item>Lagos</item>
+        <item>Maseru</item>
+        <item>Mogadishu</item>
+        <item>Nairobi</item>
+        <item>Sao Tome</item>
+        <item>Timbuktu</item>
+        <item>Tripoli</item>
+        <item>Tunis</item>
+        <item>Anchorage</item>
+        <item>Mendoza</item>
+        <item>Aruba</item>
+        <item>Asunción</item>
+        <item>Barbados</item>
+        <item>Belize</item>
+        <item>Bogotá</item>
+        <item>Buenos Aires</item>
+        <item>Cancun</item>
+        <item>Caracas</item>
+        <item>Isole Cayman</item>
+        <item>Chicago</item>
+        <item>Costa Rica</item>
+        <item>Curaçao</item>
+        <item>Dawson Creek</item>
+        <item>Denver</item>
+        <item>Detroit</item>
+        <item>Repubblica Dominicana</item>
+        <item>Edmonton</item>
+        <item>El Salvador</item>
+        <item>Fortaleza</item>
+        <item>Grand Turk</item>
+        <item>Granada</item>
+        <item>Guatemala</item>
+        <item>Guyana</item>
+        <item>Halifax</item>
+        <item>Havana</item>
+        <item>Indianapolis</item>
+        <item>Knox</item>
+        <item>Marengo</item>
+        <item>Petersburg</item>
+        <item>Tell City</item>
+        <item>Vevay</item>
+        <item>Vincennes</item>
+        <item>Winamac</item>
+        <item>Kingston</item>
+        <item>Nuestra Señora de La Paz</item>
+        <item>Lima</item>
+        <item>Los Angeles</item>
+        <item>Louisville</item>
+        <item>Managua</item>
+        <item>Martinica</item>
+        <item>Metlakatla</item>
+        <item>Città del Messico</item>
+        <item>Monterey</item>
+        <item>Montevideo</item>
+        <item>Montreal</item>
+        <item>Nassau</item>
+        <item>New York</item>
+        <item>Beulah</item>
+        <item>Centro</item>
+        <item>New Salem</item>
+        <item>Panama</item>
+        <item>Phoenix</item>
+        <item>Port of Spain</item>
+        <item>Port-au-Prince</item>
+        <item>Porto Rico</item>
+        <item>Santo Domingo</item>
+        <item>San Paolo</item>
+        <item>"San Giovanni"</item>
+        <item>St. Kitts</item>
+        <item>Santa Lucia</item>
+        <item>St. Thomas</item>
+        <item>Tijuana</item>
+        <item>Toronto</item>
+        <item>Vancouver</item>
+        <item>Winnipeg</item>
+        <item>South Pole</item>
+        <item>Longyearbyen</item>
+        <item>Almaty</item>
+        <item>Amman</item>
+        <item>Anadyr</item>
+        <item>Aktau</item>
+        <item>Baghdad</item>
+        <item>Bahrain</item>
+        <item>Baku</item>
+        <item>Bangkok</item>
+        <item>Beirut</item>
+        <item>Kolkata</item>
+        <item>Damasco</item>
+        <item>Dhaka</item>
+        <item>Dubai</item>
+        <item>Gaza</item>
+        <item>Hebron</item>
+        <item>Ho Chi Minh</item>
+        <item>Hong Kong</item>
+        <item>Giacarta</item>
+        <item>Gerusalemme</item>
+        <item>Kabul</item>
+        <item>Karachi</item>
+        <item>Kathmandu</item>
+        <item>Kuala Lumpur</item>
+        <item>Kuwait</item>
+        <item>Macau</item>
+        <item>Manila</item>
+        <item>Muscat</item>
+        <item>Phnom Penh</item>
+        <item>Pyongyang</item>
+        <item>Qatar</item>
+        <item>Yangon</item>
+        <item>Riyadh</item>
+        <item>Seoul</item>
+        <item>Shanghai</item>
+        <item>Singapore</item>
+        <item>Taipei</item>
+        <item>Teheran</item>
+        <item>Tel Aviv</item>
+        <item>Tokyo</item>
+        <item>Ulaanbaatar</item>
+        <item>Bermuda</item>
+        <item>Isole Canarie</item>
+        <item>Capo Verde</item>
+        <item>Reykjavik</item>
+        <item>Stanley</item>
+        <item>Adelaide</item>
+        <item>Brisbane</item>
+        <item>Canberra</item>
+        <item>Darwin</item>
+        <item>Melbourne</item>
+        <item>Nuovo Galles Del Sud</item>
+        <item>Perth</item>
+        <item>Queensland</item>
+        <item>Sydney</item>
+        <item>Victoria</item>
+        <item>Terranova</item>
+        <item>Saskatchewan</item>
+        <item>Isola di Pasqua</item>
+        <item>Amsterdam</item>
+        <item>Andorra</item>
+        <item>Atene</item>
+        <item>Belfast</item>
+        <item>Belgrado</item>
+        <item>Berlino</item>
+        <item>Bratislava</item>
+        <item>Bruxelles</item>
+        <item>Bucarest</item>
+        <item>Budapest</item>
+        <item>Chisinau</item>
+        <item>Copenhagen</item>
+        <item>Dublino</item>
+        <item>Gibilterra</item>
+        <item>Helsinki</item>
+        <item>Isola di Man</item>
+        <item>Istanbul</item>
+        <item>Lisbona</item>
+        <item>Londra</item>
+        <item>Lussemburgo</item>
+        <item>Madrid</item>
+        <item>Malta</item>
+        <item>Minsk</item>
+        <item>Monaco</item>
+        <item>Mosca</item>
+        <item>Oslo</item>
+        <item>Parigi</item>
+        <item>Praga</item>
+        <item>Riga</item>
+        <item>Roma</item>
+        <item>San Marino</item>
+        <item>Sarajevo</item>
+        <item>Sinferopoli</item>
+        <item>Skopje</item>
+        <item>Sofia</item>
+        <item>Stoccolma</item>
+        <item>Tallinn</item>
+        <item>Città del Vaticano</item>
+        <item>Vienna</item>
+        <item>Vilnius</item>
+        <item>Varsavia</item>
+        <item>Zagabria</item>
+        <item>Zurigo</item>
+        <item>Antananarivo</item>
+        <item>Maldive</item>
+        <item>Mauritius</item>
+        <item>Auckland</item>
+        <item>Fiji</item>
+        <item>Guam</item>
+        <item>Honolulu</item>
+        <item>Kiritimati</item>
+        <item>Noumea</item>
+        <item>Samoa</item>
+        <item>Tahiti</item>
+        <item>Antigua</item>
+        <item>Austin</item>
+        <item>Boston</item>
+        <item>Calgary</item>
+        <item>Columbus</item>
+        <item>Dallas</item>
+        <item>Knoxville</item>
+        <item>Memphis</item>
+        <item>Miami</item>
+        <item>Minneapolis</item>
+        <item>Ottawa</item>
+        <item>Philadelphia</item>
+        <item>Portland</item>
+        <item>San Diego</item>
+        <item>San Francisco</item>
+        <item>Salt Lake City</item>
+        <item>San José</item>
+        <item>San Salvador</item>
+        <item>Seattle</item>
+        <item>Saint Louis</item>
+        <item>Washington D.C.</item>
+        <item>Houston</item>
+        <item>San Antonio</item>
+        <item>Jacksonville</item>
+        <item>Baltimora</item>
+        <item>Nashville</item>
+        <item>Milwaukee</item>
+        <item>Oklahoma City</item>
+        <item>Las Vegas</item>
+        <item>Albuquerque</item>
+        <item>Tucson</item>
+        <item>Sacramento</item>
+        <item>Atlanta</item>
+        <item>Cleveland</item>
+        <item>New Orleans</item>
+        <item>Tampa</item>
+        <item>Pittsburgh</item>
+        <item>Cincinnati</item>
+        <item>Mountain View</item>
+        <item>Reno</item>
+        <item>Black Rock City</item>
+        <item>Doha</item>
+        <item>Pechino</item>
+        <item>Mumbai</item>
+        <item>Delhi</item>
+        <item>Osaka</item>
+        <item>Lahore</item>
+        <item>"Sana'a"</item>
+        <item>Barcellona</item>
+        <item>Monaco</item>
+        <item>Milano</item>
+        <item>Francoforte</item>
+        <item>Hanoi</item>
+        <item>Ankara</item>
+        <item>Bangalore</item>
+        <item>Brasília</item>
+        <item>Cape Town</item>
+        <item>Islamabad</item>
+        <item>Rio de Janeiro</item>
+        <item>Ann Arbor</item>
+        <item>Boulder</item>
+        <item>Cambridge</item>
+        <item>Kirkland</item>
+        <item>Madison</item>
+        <item>Guangzhou</item>
+        <item>Hyderabad</item>
+        <item>Reston</item>
+        <item>Belo Horizonte</item>
+        <item>Santiago</item>
+        <item>Monrovia</item>
+        <item>Colombo</item>
+        <item>Chihuahua</item>
+        <item>Gurgaon</item>
+        <item>Manchester</item>
+        <item>Kyiv</item>
+        <item>San Pietroburgo</item>
+        <item>Kraków</item>
+        <item>Breslavia</item>
+        <item>Amburgo</item>
+        <item>Oulu</item>
+        <item>Haifa</item>
+        <item>San Juan</item>
+        <item>Tegucigalpa</item>
+        <item>Paramaribo</item>
+        <item>Quito</item>
+        <item>Hawaii</item>
+        <item>Alaska</item>
+        <item>Phoenix</item>
+        <item>Kingston</item>
+        <item>Praia</item>
+        <item>Reykjavik</item>
+        <item>Ginevra</item>
+        <item>Windhoek</item>
+        <item>Sofia</item>
+        <item>Atene</item>
+        <item>Kalingrad</item>
+        <item>Khartoum</item>
+        <item>Nairobi</item>
+        <item>Aden</item>
+        <item>Antananarivo</item>
+        <item>Kuwait</item>
+        <item>Abu Dhabi</item>
+        <item>Samara</item>
+        <item>Nuova Delhi</item>
+        <item>Novosibirsk</item>
+        <item>Tailandia</item>
+        <item>Irkutsk</item>
+        <item>Chita</item>
+        <item>Vladivostok</item>
+        <item>Magadan</item>
+        <item>Kamchatka</item>
+        <item>Suva</item>
+        <item>Wellington</item>
+    </string-array>
+    <string-array name="device_settings_common_every_week_array">
+        <item>Ogni domenica</item>
+        <item>Ogni lunedì</item>
+        <item>Ogni martedì</item>
+        <item>Ogni mercoledì</item>
+        <item>Ogni giovedì</item>
+        <item>Ogni venerdì</item>
+        <item>Ogni sabato</item>
+    </string-array>
+    <string-array name="device_settings_countries_names_miui">
+        <item>"Costa d'Avorio"</item>
+        <item>Ghana</item>
+        <item>Etiopia</item>
+        <item>Algeria</item>
+        <item>Malawi</item>
+        <item>Repubblica del Congo</item>
+        <item>Egitto</item>
+        <item>Marocco</item>
+        <item>Guinea</item>
+        <item>Senegal</item>
+        <item>Tanzania</item>
+        <item>Gibuti</item>
+        <item>Sierra Leone</item>
+        <item>Botswana</item>
+        <item>Zimbabwe</item>
+        <item>Sud Africa</item>
+        <item>Uganda</item>
+        <item>Sudan</item>
+        <item>Ruanda</item>
+        <item>Repubblica Democratica del Congo</item>
+        <item>Nigeria</item>
+        <item>Lesotho</item>
+        <item>Somalia</item>
+        <item>Kenya</item>
+        <item>Sao Tome e Principe</item>
+        <item>Mali</item>
+        <item>Libia</item>
+        <item>Tunis</item>
+        <item>Stati Uniti</item>
+        <item>Argentina</item>
+        <item>Aruba</item>
+        <item>Paraguay</item>
+        <item>Barbados</item>
+        <item>Belize</item>
+        <item>Colombia</item>
+        <item>Argentina</item>
+        <item>Messico</item>
+        <item>Venezuela</item>
+        <item>Isole Cayman</item>
+        <item>Stati Uniti</item>
+        <item>Costa Rica</item>
+        <item>Curaçao</item>
+        <item>Canada</item>
+        <item>Stati Uniti</item>
+        <item>Stati Uniti</item>
+        <item>Repubblica Dominicana</item>
+        <item>Canada</item>
+        <item>El Salvador</item>
+        <item>Brasile</item>
+        <item>Isole Turks e Caicos</item>
+        <item>Granada</item>
+        <item>Guatemala</item>
+        <item>Guyana</item>
+        <item>Canada</item>
+        <item>Cuba</item>
+        <item>Stati Uniti</item>
+        <item>Stati Uniti</item>
+        <item>Stati Uniti</item>
+        <item>Stati Uniti</item>
+        <item>Stati Uniti</item>
+        <item>Stati Uniti</item>
+        <item>Stati Uniti</item>
+        <item>Stati Uniti</item>
+        <item>Giamaica</item>
+        <item>Bolivia</item>
+        <item>Perù</item>
+        <item>Stati Uniti</item>
+        <item>Stati Uniti</item>
+        <item>Nicaragua</item>
+        <item>Martinica</item>
+        <item>Stati Uniti</item>
+        <item>Messico</item>
+        <item>Stati Uniti</item>
+        <item>Uruguay</item>
+        <item>Canada</item>
+        <item>Bahamas</item>
+        <item>Stati Uniti</item>
+        <item>Stati Uniti</item>
+        <item>Stati Uniti</item>
+        <item>Stati Uniti</item>
+        <item>Panama</item>
+        <item>Stati Uniti</item>
+        <item>Trinidad e Tobago</item>
+        <item>Haiti</item>
+        <item>Porto Rico</item>
+        <item>Repubblica Dominicana</item>
+        <item>Brasile</item>
+        <item>Canada</item>
+        <item>Santi Kitts e Nevis</item>
+        <item>Santa Lucia</item>
+        <item>Isole Vergini Americane</item>
+        <item>Messico</item>
+        <item>Canada</item>
+        <item>Canada</item>
+        <item>Canada</item>
+        <item>South Pole</item>
+        <item>Isole Svalbard e Jan Mayen</item>
+        <item>Kazakhstan</item>
+        <item>Giordania</item>
+        <item>Russia</item>
+        <item>Kazakhstan</item>
+        <item>Iraq</item>
+        <item>Bahrain</item>
+        <item>Azerbaijan</item>
+        <item>Thailandia</item>
+        <item>Lebano</item>
+        <item>India</item>
+        <item>Siria</item>
+        <item>Bangladesh</item>
+        <item>Emirati Arabi Uniti</item>
+        <item>Palestina</item>
+        <item>Palestina</item>
+        <item>Vietnam</item>
+        <item>Cina</item>
+        <item>Indonesia</item>
+        <item>Israele</item>
+        <item>Afghanistan</item>
+        <item>Pakistan</item>
+        <item>Nepal</item>
+        <item>Malesia</item>
+        <item>Kuwait</item>
+        <item>Cina</item>
+        <item>Filippine</item>
+        <item>Oman</item>
+        <item>Cambogia</item>
+        <item>Corea del Nord</item>
+        <item>Qatar</item>
+        <item>Birmania</item>
+        <item>Arabia Saudita</item>
+        <item>Corea Del Sud</item>
+        <item>Cina</item>
+        <item>Singapore</item>
+        <item>Cina</item>
+        <item>Iran</item>
+        <item>Israele</item>
+        <item>Giappone</item>
+        <item>Mongolia</item>
+        <item>Bermuda</item>
+        <item>Spagna</item>
+        <item>Capo Verde</item>
+        <item>Islanda</item>
+        <item>Isole Falkland</item>
+        <item>Australia</item>
+        <item>Australia</item>
+        <item>Australia</item>
+        <item>Australia</item>
+        <item>Australia</item>
+        <item>Australia</item>
+        <item>Australia</item>
+        <item>Australia</item>
+        <item>Australia</item>
+        <item>Canada</item>
+        <item>Canada</item>
+        <item>Canada</item>
+        <item>Cile</item>
+        <item>Paesi bassi (Olanda)</item>
+        <item>Andorra</item>
+        <item>Grecia</item>
+        <item>Regno Unito</item>
+        <item>Serbia</item>
+        <item>Germania</item>
+        <item>Slovacchia</item>
+        <item>Belgio</item>
+        <item>Romania</item>
+        <item>Ungheria</item>
+        <item>Moldavia</item>
+        <item>Danimarca</item>
+        <item>Irlanda</item>
+        <item>Gibilterra</item>
+        <item>Finlandia</item>
+        <item>Isola di Man</item>
+        <item>Turchia</item>
+        <item>Portogallo</item>
+        <item>Regno Unito</item>
+        <item>Lussemburgo</item>
+        <item>Spagna</item>
+        <item>Malta</item>
+        <item>Bielorussia</item>
+        <item>Monaco</item>
+        <item>Russia</item>
+        <item>Norvegia</item>
+        <item>Francia</item>
+        <item>Repubblica Ceca</item>
+        <item>Lettonia</item>
+        <item>Italia</item>
+        <item>San Marino</item>
+        <item>Bosnia e Herzegovina</item>
+        <item>Ucraina</item>
+        <item>Macedonia Del Nord</item>
+        <item>Bulgaria</item>
+        <item>Svezia</item>
+        <item>Estonia</item>
+        <item>Città del Vaticano</item>
+        <item>Austria</item>
+        <item>Lituania</item>
+        <item>Polonia</item>
+        <item>Croazia</item>
+        <item>Svizzera</item>
+        <item>Madagascar</item>
+        <item>Maldive</item>
+        <item>Mauritius</item>
+        <item>Nuova Zelanda</item>
+        <item>Fiji</item>
+        <item>Guam</item>
+        <item>Stati Uniti</item>
+        <item>Australia</item>
+        <item>Nuova Caledonia</item>
+        <item>Samoa</item>
+        <item>Polinesia Francese</item>
+        <item>Antigua e Barbuda</item>
+        <item>Stati Uniti</item>
+        <item>Stati Uniti</item>
+        <item>Canada</item>
+        <item>Stati Uniti</item>
+        <item>Stati Uniti</item>
+        <item>Stati Uniti</item>
+        <item>Stati Uniti</item>
+        <item>Stati Uniti</item>
+        <item>Stati Uniti</item>
+        <item>Canada</item>
+        <item>Stati Uniti</item>
+        <item>Stati Uniti</item>
+        <item>Stati Uniti</item>
+        <item>Stati Uniti</item>
+        <item>Stati Uniti</item>
+        <item>Stati Uniti</item>
+        <item>El Salvador</item>
+        <item>Stati Uniti</item>
+        <item>Stati Uniti</item>
+        <item>Stati Uniti</item>
+        <item>Stati Uniti</item>
+        <item>Stati Uniti</item>
+        <item>Stati Uniti</item>
+        <item>Stati Uniti</item>
+        <item>Stati Uniti</item>
+        <item>Stati Uniti</item>
+        <item>Stati Uniti</item>
+        <item>Stati Uniti</item>
+        <item>Stati Uniti</item>
+        <item>Stati Uniti</item>
+        <item>Stati Uniti</item>
+        <item>Stati Uniti</item>
+        <item>Stati Uniti</item>
+        <item>Stati Uniti</item>
+        <item>Stati Uniti</item>
+        <item>Stati Uniti</item>
+        <item>Stati Uniti</item>
+        <item>Stati Uniti</item>
+        <item>Stati Uniti</item>
+        <item>Stati Uniti</item>
+        <item>Qatar</item>
+        <item>Cina</item>
+        <item>India</item>
+        <item>India</item>
+        <item>Giappone</item>
+        <item>Pakistan</item>
+        <item>Yemen</item>
+        <item>Spagna</item>
+        <item>Germania</item>
+        <item>Italia</item>
+        <item>Germania</item>
+        <item>Vietnam</item>
+        <item>Turchia</item>
+        <item>India</item>
+        <item>Brasile</item>
+        <item>Sud Africa</item>
+        <item>Pakistan</item>
+        <item>Brasile</item>
+        <item>Stati Uniti</item>
+        <item>Stati Uniti</item>
+        <item>Regno Unito</item>
+        <item>Stati Uniti</item>
+        <item>Stati Uniti</item>
+        <item>Cina</item>
+        <item>India</item>
+        <item>Stati Uniti</item>
+        <item>Brasile</item>
+        <item>Stati Uniti</item>
+        <item>Liberia</item>
+        <item>Sri Lanka</item>
+        <item>Messico</item>
+        <item>India</item>
+        <item>Regno Unito</item>
+        <item>Ucraina</item>
+        <item>Russia</item>
+        <item>Polonia</item>
+        <item>Polonia</item>
+        <item>Germania</item>
+        <item>Finlandia</item>
+        <item>Israele</item>
+        <item>Porto Rico</item>
+        <item>Honduras</item>
+        <item>Suriname</item>
+        <item>Ecuador</item>
+        <item>Stati Uniti</item>
+        <item>Stati Uniti</item>
+        <item>Stati Uniti</item>
+        <item>Canada</item>
+        <item>Capo Verde</item>
+        <item>Islanda</item>
+        <item>Svizzera</item>
+        <item>Namibia</item>
+        <item>Bulgaria</item>
+        <item>Grecia</item>
+        <item>Russia</item>
+        <item>Sudan</item>
+        <item>Kenya</item>
+        <item>Yemen</item>
+        <item>Madagascar</item>
+        <item>Kuwait</item>
+        <item>Emirati Arabi Uniti</item>
+        <item>Russia</item>
+        <item>India</item>
+        <item>Russia</item>
+        <item>Cina</item>
+        <item>Russia</item>
+        <item>Russia</item>
+        <item>Russia</item>
+        <item>Russia</item>
+        <item>Russia</item>
+        <item>Fiji</item>
+        <item>Nuova Zelanda</item>
+    </string-array>
+    <string-array name="device_settings_date_week">
+        <item>Lun</item>
+        <item>Mar</item>
+        <item>Mer</item>
+        <item>Gio</item>
+        <item>Ven</item>
+        <item>Sab</item>
+        <item>Dom</item>
+    </string-array>
+    <string-array name="device_settings_date_week_simple1">
+        <item>Lun</item>
+        <item>Mar</item>
+        <item>Mer</item>
+        <item>Gio</item>
+        <item>Ven</item>
+        <item>Sab</item>
+        <item>Dom</item>
+    </string-array>
+    <string-array name="device_settings_face_fun">
+        <item>@string/device_settings_common_null</item>
+        <item>Battito cardiaco</item>
+        <item>Stress</item>
+        <item>Sonno</item>
+        <item>Energia</item>
+        <item>Passi</item>
+        <item>Calorie</item>
+        <item>In piedi</item>
+        <item>Batteria</item>
+        <item>Data</item>
+        <item>Meteo</item>
+        <item>Pressione atmosferica</item>
+        <item>Altezza</item>
+        <item>Conto alla rovescia</item>
+        <item>Sveglia</item>
+        <item>IQA</item>
+        <item>UMIDITÀ RELATIVA</item>
+        <item>Allenamento</item>
+        <item>Indice UV</item>
+        <item>Alba e tramonto</item>
+        <item>Vento</item>
+    </string-array>
+    <string-array name="device_settings_reminder_period_array">
+        <item>Evento singolo</item>
+        <item>Tutti i giorni</item>
+        <item>Settimanale</item>
+        <item>Mensile</item>
+        <item>Annuale</item>
+        <item>Personalizza</item>
+    </string-array>
+    <string-array name="device_settings_unlock_phone_distance_list">
+        <item>Molto vicino</item>
+        <item>Chiudi</item>
+        <item>Meno vicino</item>
+    </string-array>
+    <string-array name="face_fun">
+        <item>@string/face_common_null</item>
+        <item>Battito cardiaco</item>
+        <item>Stress</item>
+        <item>Sonno</item>
+        <item>Energia</item>
+        <item>Passi</item>
+        <item>Calorie</item>
+        <item>In piedi</item>
+        <item>Batteria</item>
+        <item>Data</item>
+        <item>Meteo</item>
+        <item>Pressione atmosferica</item>
+        <item>Altezza</item>
+        <item>Conto alla rovescia</item>
+        <item>Sveglia</item>
+        <item>IQA</item>
+        <item>UMIDITÀ RELATIVA</item>
+        <item>Allenamento</item>
+        <item>Indice UV</item>
+        <item>Alba e tramonto</item>
+        <item>Vento</item>
+    </string-array>
+    <string-array name="habit_date_week">
+        <item>Lunedì</item>
+        <item>Martedì</item>
+        <item>Mercoledì</item>
+        <item>Giovedì</item>
+        <item>Venerdì</item>
+        <item>Sabato</item>
+        <item>Domenica</item>
+    </string-array>
+    <string-array name="habit_date_week_simple1">
+        <item>Lun</item>
+        <item>Mar</item>
+        <item>Mer</item>
+        <item>Gio</item>
+        <item>Ven</item>
+        <item>Sab</item>
+        <item>Dom</item>
+    </string-array>
+    <string-array name="health_blood_pressure_repeat_mode_mild_abnormal_array">
+        <item>Lun, Mer, Ven</item>
+        <item>Mar, Gio, Sab</item>
+        <item>Mer, Ven, Dom</item>
+    </string-array>
+    <string-array name="health_blood_pressure_repeat_mode_week_array">
+        <item>Lun</item>
+        <item>Mar</item>
+        <item>Mer</item>
+        <item>Gio</item>
+        <item>Ven</item>
+        <item>Sab</item>
+        <item>Dom</item>
+    </string-array>
+    <string-array name="health_deep_shallow_sleep_guide_descriptions">
+        <item>Posiziona il telefono accanto a te quando dormi per monitorare i movimenti del corpo e generare le statistiche del ciclo di sonno.</item>
+        <item>"Per ottenere statistiche accurate, posiziona il telefono accanto o sotto il cuscino e assicurati che non sia a più di 50 cm di distanza dal tuo corpo."</item>
+        <item>Quando viene impostato il programma per andare a dormire, il tuo sonno verrà tracciato automaticamente.</item>
+        <item>Il monitoraggio del sonno consuma solo l\'1% circa di batteria per notte.</item>
+    </string-array>
+    <string-array name="health_deep_shallow_sleep_guide_titles">
+        <item>Monitora il tuo sonno</item>
+        <item>Posiziona il telefono accanto al cuscino</item>
+        <item>Genera statistiche automaticamente</item>
+        <item>Basso consumo energetico</item>
+    </string-array>
+    <string-array name="health_sleep_evaluation_daily_sleep_arr">
+        <item>Limitare il pisolino a 30 minuti ti aiuta ad addormentarti meglio.</item>
+        <item>Un sonno sano può aiutarti a sentirti meglio.</item>
+        <item>Fare un pisolino per 10 o 20 minuti è rilassante.</item>
+        <item>Fare un pisolino prima delle 13:30 è energizzante.</item>
+        <item>Fare un pisolino può aumentare la tua energia e le tue prestazioni.</item>
+    </string-array>
+    <string-array name="health_sleep_evaluation_long_sleep_arr">
+        <item>Discreto. La maggior parte degli adulti necessita tra le 7 e le 9 ore di sonno.</item>
+        <item>Discreto. Mantieni ore di sonno regolari.</item>
+        <item>Buono. Continua così.</item>
+        <item>Sonno breve. La maggior parte degli adulti necessita tra le 7 e le 9 ore di sonno.</item>
+        <item>Superiore alla media. La maggior parte degli adulti necessita tra le 7 e le 9 ore di sonno.</item>
+        <item>Buona durata del sonno profondo. Recupero e potenziamento della memoria.</item>
+        <item>Buona durata del sonno profondo. Ricostituente e potenziatore dell\'immunità.</item>
+        <item>Sonno profondo superiore alla media. Tieni d\'occhio la tua salute.</item>
+        <item>Sonno profondo breve. Prova un po\' di esercizio, ma non prima di andare a dormire.</item>
+        <item>Sonno profondo breve. Rilassare la mente concilia il sonno.</item>
+        <item>Sonno profondo breve. Evita le bevande stimolanti prima di dormire.</item>
+        <item>Cerca di andare a dormire fra le 22:00 e le 23:00.</item>
+        <item>Sei andato a letto tardi. Cerca di andare a dormire in modo regolare.</item>
+        <item>Sei andato a letto tardi. Cerca di dormire in modo regolare.</item>
+        <item>Avere abitudini nottambule può avere effetti sulla salute.</item>
+        <item>Tempo di veglia superiore alla media. Rendi la tua camera da letto buia e silenziosa.</item>
+        <item>Qualche risveglio. Rendi la tua camera da letto silenziosa.</item>
+        <item>Qualche risveglio. Rendi la tua camera da letto buia e silenziosa.</item>
+        <item>Buona durata della fase REM. La tua creatività e capacità di risoluzione dei problemi sono migliori.</item>
+        <item>Buona durata della fase REM. Ti stai riposando e rilassando.</item>
+        <item>Fase REM breve. Prova a fare un po\' di esercizio fisico, ma non prima di andare a letto.</item>
+        <item>Fase REM breve. Dormire a sufficienza potrebbe aiutare.</item>
+        <item>Fase REM superiore alla media. Metti da parte le tue preoccupazioni prima di andare a dormire.</item>
+        <item>Sonno REM superiore alla media. Mantieni ore di sonno regolari.</item>
+        <item>Buona durata del sonno leggero. Ottimo per riposarsi e stimolare la creatività.</item>
+        <item>Buona durata del sonno leggero. Ricostituente e antistress.</item>
+        <item>Sonno leggero superiore alla media. Rilassati e distenditi prima di andare a letto.</item>
+        <item>Per ritrovare la tua energia mattutina, vai a dormire prima di mezzanotte.</item>
+        <item>Per ritrovare la tua energia mattutina, vai a dormire prima di mezzanotte.</item>
+    </string-array>
+    <string-array name="health_sleep_evaluation_monthly_sleep_arr">
+        <item>Buona durata del sonno e routine del sonno regolare. Continua così.</item>
+        <item>Buona durata del sonno ma routine del sonno leggermente irregolare. Cerca di dormire regolarmente.</item>
+        <item>Buona durata del sonno ma routine del sonno irregolare. Stabilisci un programma su quando andare a dormire e rispettalo.</item>
+        <item>Buona quantità di sonno e routine del sonno regolare. Evita le bevande energetiche prima di dormire.</item>
+        <item>Buona quantità di sonno ma routine del sonno leggermente irregolare. Rilassati e distenditi prima di andare a letto.</item>
+        <item>Discreta quantità di sonno ma routine del sonno irregolare. Rendi la tua camera da letto buia e silenziosa.</item>
+        <item>Quantità di sonno superiore alla media e routine del sonno regolare. Una sana dormita può aiutarti a sentirti meglio.</item>
+        <item>Quantità di sonno superiore alla media ma routine del sonno leggermente irregolare. Se ti senti stordito, regola le ore di sonno.</item>
+        <item>Quantità di sonno superiore alla media ma routine del sonno irregolare. Cerca di dormire regolarmente.</item>
+        <item>Sonno irregolare. Stabilisci un programma su quando vai a dormire e rispettalo.</item>
+    </string-array>
+    <string-array name="health_sleep_evaluation_stage_arr">
+        <item>Nessun dato</item>
+        <item>Non male</item>
+        <item>Moderato</item>
+        <item>Normale</item>
+        <item>Eccellente</item>
+        <item>Nessun dato sul sonno</item>
+    </string-array>
+    <string-array name="health_sleep_evaluation_weekly_sleep_arr">
+        <item>Buona durata del sonno e routine del sonno regolare. Continua così.</item>
+        <item>Buona durata del sonno ma routine del sonno leggermente irregolare. Cerca di dormire regolarmente.</item>
+        <item>Buona durata del sonno ma routine del sonno irregolare. Stabilisci un programma su quando andare a dormire e rispettalo.</item>
+        <item>Buona quantità di sonno e routine del sonno regolare. Evita le bevande energetiche prima di dormire.</item>
+        <item>Buona quantità di sonno ma routine del sonno leggermente irregolare. Rilassati e distenditi prima di andare a letto.</item>
+        <item>Discreta quantità di sonno ma routine del sonno irregolare. Rendi la tua camera da letto buia e silenziosa.</item>
+        <item>Quantità di sonno superiore alla media e routine del sonno regolare. Una sana dormita può aiutarti a sentirti meglio.</item>
+        <item>Quantità di sonno superiore alla media ma routine del sonno leggermente irregolare. Se ti senti stordito, regola le ore di sonno.</item>
+        <item>Quantità di sonno superiore alla media ma routine del sonno irregolare. Cerca di dormire regolarmente.</item>
+        <item>Sonno irregolare. Stabilisci un programma su quando vai a dormire e rispettalo.</item>
+    </string-array>
+    <string-array name="health_sleep_snore_guide_descriptions">
+        <item>I suoni verranno registrati durante il sonno. L\'apprendimento automatico consente a Mi Fitness di rilevare quando russi, parli o i rumori forti e di salvare le registrazioni sul telefono.</item>
+        <item>Il microfono verrà acceso e spento in base alla programmazione dell\'ora in cui vai a letto.</item>
+        <item>Assicurati che il telefono sia sufficientemente carico prima di andare a dormire. In caso di batteria scarica la registrazione del suono verrà interrotta.</item>
+    </string-array>
+    <string-array name="health_sleep_snore_guide_titles">
+        <item>Registra audio con il microfono</item>
+        <item>Rileva i suoni automaticamente</item>
+        <item>Mantieni il telefono carico</item>
+    </string-array>
+    <string-array name="heartrate_citing_literature">
+        <item>中华人民共和国卫生行业标准 WS/T 476-2015 营养名词术语</item>
+        <item>Ito H, Ohshima A, Ohto N, Ogasawara M, Tsuzuki M, Takao K, Hijii C, Tanaka H, Nishioka K. Relazione tra composizione corporea ed età in soggetti giapponesi sani. Eur J Clin Nutr. 55(6):462-70, 2001</item>
+        <item>Lee RD e Nieman DC. Valutazione nutrizionale (seconda edizione), pp.264</item>
+        <item>Lohman TG. Valutazione della composizione del corpo avanzata - problemi di Currenet nella serie di scienze di esercizio. Champaign-IL: Human Kinetics. pp 80. 1992</item>
+        <item>"Mahan LK e Escott-stump S. Krause's Food, nutrition &amp; diet therapy 9a edizione. WB Saunders Co. pp 455"</item>
+        <item>《神经病学》第9版 第二十二章 睡眠障碍 人民卫生出版社</item>
+        <item>《生理学》第9版 第十章 神经系统的功能 人民卫生出版社</item>
+        <item>《睡眠医学：理论与实践》第4版 第一章 正常睡眠和睡眠变异 人民卫生出版社</item>
+        <item>《中国居民膳食指南2016》第一部分 一般人群膳食指南 中国营养学会 编著</item>
+        <item>Valutazione fitness avanzata e prescrizione esercizi. Heyward VH. Kinetics. pp. 162</item>
+        <item>"American College of Sports Medicine. ACSM's Guidelines for Exercise Testing Prescription[M]. Wolters Kluwer/Lippincott Williams &amp; Wilkins Health, 2014."</item>
+        <item>Bray GA. Diagnosi contemporanea e gestione dell\'obesità pp.13, 1998</item>
+        <item>Brown JE. Nutrition Now 2a edizione. Wadsworth Publishing Company. pp 9-3. 1999</item>
+        <item>Brozek J. Grande F, Anderson JT, Keys A. Densitometric analysis of body composition: Revision of some quantitative assumptions. Ann N Y Acad Sci. 1963 Sep 26;110:113-40</item>
+        <item>Heymsfield SB, Smith R, Aulet M, Bensen B, Lichtman S, Wang J, Pierson RN Jr. Appendicular skeletal muscle mass: measurement by dual-photon absorptiometry. Am J Clin Nutr. 52(2):214-8, 1990</item>
+        <item>Pollock, Michael L, Gaesser, Glenn A, Butcher, Janus D,等. ACSM Position Stand: The, Recommended Quantity and Quality of Exercise for Developing and Maintaining Cardiorespiratory, and Muscular Fitness, and Flexibility in Healthy Adults[J]. Medicine &amp; Science, in Sports &amp; Exercise, 30(6):975-991.</item>
+        <item>Tahara Y, Moji K, Aoyagi K, Tsunawake N, Muraki S, Mascie-Taylor CG. Age-related pattern of body density and body composition of Japanese men and women 18-59 years of age. Am J Hum Biol. 14(6):743-52, 2002</item>
+        <item>Wang ZM, Pierson RN Jr, Heymsfield SB. The five-level model: a new approach to organizing body-composition research. Am J Clin Nutr. 1992 Jul;56(1):19-28.</item>
+        <item>Linee guida WHO sul BMI</item>
+        <item>儿科学辞典. 北京科学技术出版社. 2003</item>
+        <item>临床医学概要 第2版 第二章 体格检查人民卫生出版社</item>
+        <item>苏亮，陆峥. 2017 年中国失眠症诊断和治疗指南解读[J]. 世界临床药物, 2018, 39(4).</item>
+        <item>卫生部“十二五”规划教材【诊断学】 第8版 第三篇 体格检查</item>
+        <item>营养与食品卫生学（第八版）第一章 第五节 孙长颢主编 人民卫生出版社</item>
+        <item>中国超重肥胖医学营养治疗专家共识编写委员会. 中国超重/肥胖医学营养治疗专家共识(2016年版)[J].</item>
+        <item>中国高血压防治指南-2005年修订版 中国高血压防治指南2010年修订版</item>
+        <item>中华人民共和国卫生行业标准 WS/T 476-2015 营养名词术语</item>
+        <item>Amato M C, Giordano C, Galia M, et al. Visceral Adiposity Index[J]. 2010, 33(4):920-922.</item>
+        <item>章振林. 骨质疏松诊断与骨密度检查报告的解读[J]. 中国全科医学, 2010, 13(2):117-117.</item>
+        <item>谢幸.妇产科学（第9版）[M].北京:人民卫生出版社.2018.</item>
+        <item>窗敲雨. 安全期真的安全吗[J]. 康复, 2013(1):16-16.</item>
+        <item>肖玮, 阿丹. 安全期避孕安全吗?[J]. 健康必读, 2002(4).</item>
+        <item>2018 - Rapporto scientifico del Comitato Consultivo per le Attività Fisiche</item>
+    </string-array>
+    <string-array name="settingitem_date_week">
+        <item>Lun</item>
+        <item>Mar</item>
+        <item>Mer</item>
+        <item>Gio</item>
+        <item>Ven</item>
+        <item>Sab</item>
+        <item>Dom</item>
+    </string-array>
+    <string-array name="settingitem_date_week_simple1">
+        <item>Lun</item>
+        <item>Mar</item>
+        <item>Mer</item>
+        <item>Gio</item>
+        <item>Ven</item>
+        <item>Sab</item>
+        <item>Dom</item>
+    </string-array>
+    <string-array name="userinfo_blood_types">
+        <item>A</item>
+        <item>B</item>
+        <item>AB</item>
+        <item>O</item>
+        <item>A(-)</item>
+        <item>A(+)</item>
+        <item>B(-)</item>
+        <item>B(+)</item>
+        <item>AB(-)</item>
+        <item>AB(+)</item>
+        <item>O(-)</item>
+        <item>O(+)</item>
+    </string-array>
+    <string-array name="userinfo_contact_relation_array">
+        <item>Non impostato</item>
+        <item>Genitore</item>
+        <item>Sorella</item>
+        <item>Fratello</item>
+        <item>Coniuge</item>
+        <item>Coppia</item>
+        <item>Amico</item>
+        <item>Collega</item>
+        <item>Compagno</item>
+        <item>Figlio</item>
+        <item>Compagno</item>
+        <item>Assistente</item>
+        <item>Capo</item>
+        <item>Coinquilino/a</item>
+        <item>Dottore</item>
+        <item>Familiare</item>
+        <item>Insegnante</item>
+        <item>Custode</item>
+        <item>Guardiano</item>
+        <item>Assistente sociale</item>
+        <item>Scuola</item>
+        <item>Asilo</item>
+        <item>Altro</item>
+    </string-array>
+    <string-array name="userinfo_energy_unit">
+        <item>kcal</item>
+        <item>kJ</item>
+    </string-array>
+    <string-array name="userinfo_gender_array">
+        <item>Non impostato</item>
+        <item>Maschio</item>
+        <item>Femmina</item>
+    </string-array>
+    <string-array name="userinfo_length_unit">
+        <item>cm</item>
+        <item>m</item>
+        <item>Km</item>
+    </string-array>
+    <string-array name="userinfo_normal_blood_array">
+        <item>Non impostato</item>
+        <item>A</item>
+        <item>B</item>
+        <item>AB</item>
+        <item>O</item>
+    </string-array>
+    <string-array name="userinfo_rh_blood_array">
+        <item>Non impostato</item>
+        <item>Negativi</item>
+        <item>Positivi</item>
+    </string-array>
+    <string-array name="userinfo_yes_no_array">
+        <item>Non impostato</item>
+        <item>Sì</item>
+        <item>No</item>
+    </string-array>
+</resources>

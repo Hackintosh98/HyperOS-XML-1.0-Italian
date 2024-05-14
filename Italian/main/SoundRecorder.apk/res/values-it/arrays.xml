@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="multi_floating_package_allow_list">
+        <item>com.miui.securitycenter</item>
+        <item>com.miui.weather2</item>
+        <item>com.android.calendar</item>
+        <item>com.android.contacts</item>
+        <item>com.android.mms</item>
+        <item>com.miui.notes</item>
+        <item>com.android.settings</item>
+        <item>com.miui.gallery</item>
+        <item>com.miui.cloudservice</item>
+    </string-array>
+    <string-array name="hd_record_scenes_entries">
+        <item>Musica</item>
+        <item>Voce</item>
+        <item>Intervista</item>
+        <item>HD</item>
+    </string-array>
+    <string-array name="interview_record_scenes_entries">
+        <item>Musica</item>
+        <item>Voce</item>
+        <item>Intervista</item>
+    </string-array>
+    <string-array name="record_format_entries">
+        <item>AAC</item>
+        <item>MP3</item>
+        <item>WAV</item>
+    </string-array>
+    <string-array name="record_quality_entries">
+        <item>Alta</item>
+        <item>Normale</item>
+        <item>Bassa</item>
+    </string-array>
+    <string-array name="record_quality_summaries">
+        <item>MP3, ~192kbit/s, ~90MB/h</item>
+        <item>MP3, ~100kbit/s, ~45MB/h</item>
+        <item>MP3, ~75kbit/s, ~32MB/h</item>
+    </string-array>
+    <string-array name="record_scenes_entries">
+        <item>Musica</item>
+        <item>Voce</item>
+    </string-array>
+    <string-array name="record_scenes_summaries">
+        <item>Registra musica con una migliore qualità</item>
+        <item>Sposta il microfono più vicino alla sorgente del suono per una migliore qualità</item>
+        <item>Posiziona il telefono tra 2 persone per registrare chiaramente la loro conversazione</item>
+        <item>La tecnologia ad alta gamma dinamica consente al microfono di registrare un suono più dettagliato</item>
+    </string-array>
+    <string-array name="record_scenes_summaries_stereo">
+        <item>Registra attraverso 2 canali, ascolta il suono stereo negli auricolari</item>
+        <item>Sposta il microfono più vicino alla sorgente del suono per una migliore qualità</item>
+        <item>Posiziona il telefono tra 2 persone per registrare chiaramente la loro conversazione</item>
+        <item>La tecnologia ad alta gamma dinamica consente al microfono di registrare un suono più dettagliato</item>
+    </string-array>
+    <string-array name="record_type_entries">
+        <item>MP3</item>
+        <item>AMR</item>
+    </string-array>
+</resources>

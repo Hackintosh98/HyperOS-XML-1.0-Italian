@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string-array name="config_callBarringMMI">
+    <item>33</item>
+    <item>331</item>
+    <item>332</item>
+    <item>35</item>
+    <item>351</item>
+    <item>330</item>
+    <item>333</item>
+    <item>353</item>
+  </string-array>
+  <string-array name="config_callBarringMMI_for_ims">
+    <item>33</item>
+    <item>331</item>
+    <item>332</item>
+    <item>35</item>
+    <item>351</item>
+    <item>330</item>
+    <item>333</item>
+    <item>353</item>
+  </string-array>
+  <string-array name="config_display_no_service_when_sim_unready">
+    <item>DE</item>
+    <item>GB</item>
+    <item>JP</item>
+  </string-array>
+  <string-array name="config_forceQueryablePackages">
+    <item>com.android.settings</item>
+    <item>com.android.bluetooth</item>
+  </string-array>
+  <string-array name="config_miuiNonBlockableNotificationPackages">
+    <item>android</item>
+    <item>com.android.incallui</item>
+    <item>com.android.deskclock</item>
+    <item>com.android.mms</item>
+    <item>com.android.bluetooth</item>
+    <item>com.android.updater</item>
+    <item>com.jeejen.family.miui</item>
+    <item>com.miui.hybrid</item>
+    <item>com.xiaomi.xmsf</item>
+    <item>com.google.android.dialer</item>
+    <item>com.android.phone:demo_Version</item>
+    <item>com.miui.securitycore</item>
+    <item>com.android.nfc:tag_dispatch</item>
+  </string-array>
+  <string-array name="config_udfps_enroll_stage_thresholds">
+    <item>0.25</item>
+    <item>0.5s</item>
+    <item>0.75</item>
+  </string-array>
+  <string-array name="emailAddressTypes">
+    <item>Casa</item>
+    <item>Lavoro</item>
+    <item>Altro</item>
+    <item>Personalizzato</item>
+  </string-array>
+  <string-array name="fingerprint_acquired_vendor">
+    <item>Riprova</item>
+    <item></item>
+    <item></item>
+    <item>Coprire completamente lo scanner di impronte digitali e premere</item>
+    <item></item>
+    <item>Coprire completamente lo scanner di impronte digitali e premere</item>
+    <item>Coprire completamente lo scanner di impronte digitali e premere</item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item>Coprire completamente lo scanner di impronte digitali e premere</item>
+    <item>Coprire completamente lo scanner di impronte digitali e premere</item>
+    <item>"Troppo veloce! Impossibile riconoscere l'impronta digitale"</item>
+    <item>Muovi un po\' il dito e riprova</item>
+    <item>Solleva il dito e rimettilo nuovamente sullo scanner</item>
+    <item>Mantieni il dito sullo scanner un po\' più a lungo</item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item>Sposta leggermente il dito</item>
+    <item>Questa impronta digitale è già stata aggiunta, cambia dito</item>
+  </string-array>
+  <string-array name="imAddressTypes">
+    <item>Casa</item>
+    <item>Lavoro</item>
+    <item>Altro</item>
+    <item>Personalizzato</item>
+  </string-array>
+  <string-array name="imProtocols">
+    <item>AIM</item>
+    <item>Windows Live</item>
+    <item>Yahoo</item>
+    <item>Skype</item>
+    <item>QQ</item>
+    <item>Google Talk</item>
+    <item>ICQ</item>
+    <item>Jabber</item>
+  </string-array>
+  <string-array name="network_switch_type_name">
+    <item>dati</item>
+    <item>Wi-Fi</item>
+    <item>Bluetooth</item>
+    <item>LAN</item>
+    <item>VPN</item>
+  </string-array>
+  <string-array name="organizationTypes">
+    <item>Lavoro</item>
+    <item>Altro</item>
+    <item>Personalizzato</item>
+  </string-array>
+  <string-array name="phoneTypes">
+    <item>Casa</item>
+    <item>Cellulare</item>
+    <item>Lavoro</item>
+    <item>Fax lavoro</item>
+    <item>Fax casa</item>
+    <item>Cercapersone</item>
+    <item>Altro</item>
+    <item>Personalizzato</item>
+  </string-array>
+  <string-array name="postalAddressTypes">
+    <item>Casa</item>
+    <item>Lavoro</item>
+    <item>Altro</item>
+    <item>Personalizzato</item>
+  </string-array>
+  <string-array name="required_apps_managed_device">
+    <item>com.android.settings</item>
+    <item>com.android.contacts</item>
+    <item>com.android.dialer</item>
+    <item>com.android.stk</item>
+    <item>com.jeejen.family.miui</item>
+    <item>com.android.providers.downloads.ui</item>
+    <item>com.android.documentsui</item>
+    <item>com.miui.securitycenter</item>
+    <item>com.android.thememanager</item>
+  </string-array>
+  <string-array name="required_apps_managed_profile">
+    <item>com.android.contacts</item>
+    <item>com.android.settings</item>
+    <item>com.android.systemui</item>
+    <item>com.jeejen.family.miui</item>
+    <item>com.android.providers.downloads.ui</item>
+    <item>com.android.documentsui</item>
+  </string-array>
+  <string-array name="required_apps_managed_user">
+    <item>com.android.settings</item>
+    <item>com.android.systemui</item>
+    <item>com.android.contacts</item>
+    <item>com.android.dialer</item>
+    <item>com.android.stk</item>
+    <item>com.jeejen.family.miui</item>
+    <item>com.android.providers.downloads.ui</item>
+    <item>com.android.documentsui</item>
+  </string-array>
+  <string-array name="special_locale_names">
+    <item>العربية</item>
+    <item>中文 (简体)</item>
+    <item>中文 (繁體)</item>
+  </string-array>
+  <string-array name="wfcOperatorErrorAlertMessages">
+    <item>Per effettuare chiamate e inviare messaggi tramite Wi-Fi, chiedi prima al tuo operatore di impostare questo servizio. Dopodiché, attiva di nuovo la funzione Chiamate Wi-Fi nelle impostazioni. (Codice di errore: %1$s)</item>
+  </string-array>
+  <string-array name="wfcOperatorErrorNotificationMessages">
+    <item>Si è verificato un problema con la registrazione delle chiamate Wi‑Fi con l\'operatore: %1$s</item>
+  </string-array>
+</resources>

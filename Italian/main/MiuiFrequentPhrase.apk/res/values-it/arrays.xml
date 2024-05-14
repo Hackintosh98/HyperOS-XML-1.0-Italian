@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string-array name="multi_floating_package_allow_list">
+        <item>com.miui.securitycenter</item>
+        <item>com.miui.weather2</item>
+        <item>com.android.calendar</item>
+        <item>com.android.contacts</item>
+        <item>com.android.mms</item>
+        <item>com.miui.notes</item>
+        <item>com.android.settings</item>
+        <item>com.miui.gallery</item>
+        <item>com.miui.cloudservice</item>
+     </string-array>
+    <string-array name="default_phrases">
+        <item>Intestazione fattura: *** Inc.</item>
+        <item>Indirizzo: Strada, Apt, Città, Paese/Regione, Provincia, CAP</item>
+        <item>Si prega di lasciare il pacco davanti alla porta. Grazie!</item>
+        <item>"Aspettate un minuto, tornerò presto."</item>
+        <item>"Sono in riunione. Per favore, invia un messaggio di testo."</item>
+        <item>"Non posso parlare ora. Ti richiamerò il prima possibile."</item>
+        <item>Grazie.</item>
+    </string-array>
+</resources>

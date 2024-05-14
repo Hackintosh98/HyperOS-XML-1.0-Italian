@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="account_user_gender_name">
+        <item>Maschio</item>
+        <item>Femmina</item>
+    </string-array>
+    <string-array name="aritst_gender_filter_api">
+        <item>all</item>
+        <item>male</item>
+        <item>female</item>
+        <item>gruppo</item>
+    </string-array>
+    <string-array name="recommendation_desc_week">
+        <item>Consigli Domenicali</item>
+        <item>Consigli del Lunedì</item>
+        <item>Consigli del Martedì</item>
+        <item>Consigli del Mercoledì</item>
+        <item>Consigli del Giovedì</item>
+        <item>Consigli del Venerdì</item>
+        <item>Consigli del Sabato</item>
+    </string-array>
+</resources>

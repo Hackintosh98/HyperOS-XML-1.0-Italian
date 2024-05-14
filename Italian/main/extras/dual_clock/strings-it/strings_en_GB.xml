@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="location">Dispositivo</string>
+    <string name="clock_local">Dispositivo</string>
+    <string name="clock_city">Città</string>
+</resources>

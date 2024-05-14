@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="other_settings_auto_update_at_no_simslot_entries">
+        <item>Solo Wi-Fi</item>
+        <item>Spenta</item>
+    </string-array>
+    <string-array name="other_settings_auto_update_entries">
+        <item>Wi-Fi e dati</item>
+        <item>Solo Wi-Fi</item>
+        <item>Disattivato</item>
+    </string-array>
+</resources>

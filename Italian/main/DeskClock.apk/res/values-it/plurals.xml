@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name="character_counter_content_description">Caratteri immessi %1$d di %2$d</string>
+     <string name="character_counter_overflowed_content_description">Il limite di caratteri ha superato %1$d di %2$d</string>
+     <string name="character_counter_pattern">%1$d/%2$d</string>
+     <string name="bottomsheet_action_expand_halfway">Espandi a metà</string>
+     <string name="chip_text">Testo del chip</string>
+     <string name="clear_text_end_icon_content_description">Testo chiaro</string>
+     <string name="content_preview_ratio">1:1</string>
+     <string name="error_icon_content_description">Errore</string>
+     <string name="exposed_dropdown_menu_content_description">Mostra menu a discesa</string>
+     <string name="icon_content_description">Icona di dialogo</string>
+     <string name="item_view_role_description">Tab</string>
+     <string name="material_clock_toggle_content_description">Seleziona AM o PM</string>
+     <string name="material_hour_selection">Seleziona l'ora</string>
+     <string name="material_minute_selection">Seleziona minuti</string>
+     <string name="material_hour_suffix">"%1$ore"</string>
+     <string name="material_minute_suffix">%1$s minuti</string>
+     <string name="material_slider_range_end">Fine dell'intervallo,</string>
+     <string name="material_slider_range_start">Inizio dell'intervallo,</string>
+     <string name="material_timepicker_am">AM</string>
+
+     <string name="material_timepicker_clock_mode_description">Passa alla modalità orologio per l'immissione dell'ora.</string>
+     <string name="material_timepicker_hour">Ora</string>
+     <string name="material_timepicker_minute">Minuto</string>
+     <string name="material_timepicker_pm">PM</string>
+     <string name="material_timepicker_select_time">Seleziona l'ora</string>
+     <string name="material_timepicker_text_input_mode_description">Passa alla modalità di immissione del testo per l'immissione dell'ora.</string>
+     <string name="miuix_item_view_role_description">Tab</string>
+     <string name="miuix_navigator_content_switch_description">Mostra barra laterale</string>
+     <string name="miuix_navigator_multiple_choice">Selezionare</string>
+     <string name="miuix_navigator_navigator_switch_description">Nascondi barra laterale</string>
+     <string name="mtrl_badge_numberless_content_description">Nuova notifica</string>
+     <string name="mtrl_chip_close_icon_content_description">Rimuovi %1$s</string>
+     <string name="mtrl_exceed_max_badge_number_content_description">Più di %1$d nuove notifiche</string>
+     <string name="mtrl_exceed_max_badge_number_suffix">%1$d%2$s</string>
+     <string name="mtrl_picker_a11y_next_month">Passa al mese prossimo</string>
+     <string name="mtrl_picker_a11y_prev_month">Passa al mese precedente</string>
+     <string name="mtrl_picker_announce_current_selection">Selezione attuale: %1$s</string>
+     <string name="mtrl_picker_date_header_selected">%1$s</string>
+     <string name="mtrl_picker_date_header_title">Seleziona Data</string>
+     <string name="mtrl_picker_date_header_unselected">Data selezionata</string>
+     <string name="mtrl_picker_day_of_week_column_header">Colonna dei giorni: %1$s</string>
+     <string name="mtrl_picker_invalid_format">Formato non valido.</string>
+     <string name="mtrl_picker_invalid_format_example">Esempio: %1$s</string>
+     <string name="mtrl_picker_invalid_format_use">Utilizzo: %1$s</string>
+     <string name="mtrl_picker_invalid_range">Intervallo non valido.</string>
+     <string name="mtrl_picker_navigate_to_year_description">Passare all'anno %1$s</string>
+     <string name="mtrl_picker_out_of_range">Fuori intervallo: %1$s</string>
+     <string name="mtrl_picker_range_header_only_end_selected">Data di inizio – %1$s</string>
+     <string name="mtrl_picker_range_header_only_start_selected">%1$s – Data di fine</string>
+     <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
+     <string name="mtrl_picker_range_header_title">Seleziona Intervallo</string>
+     <string name="mtrl_picker_range_header_unselected">Data di inizio – Data di fine</string>
+     <string name="mtrl_picker_save">Salva</string>
+     <string name="mtrl_picker_text_input_date_hint">Data</string>
+     <string name="mtrl_picker_text_input_date_range_end_hint">Data di fine</string>
+     <string name="mtrl_picker_text_input_date_range_start_hint">Data d'inizio</string>
+     <string name="mtrl_picker_text_input_day_abbr">D</string>
+     <string name="mtrl_picker_text_input_month_abbr">M</string>
+     <string name="mtrl_picker_text_input_year_abbr">Y</string>
+     <string name="mtrl_picker_toggle_to_calendar_input_mode">Passa alla modalità di immissione del calendario</string>
+     <string name="mtrl_picker_toggle_to_day_selection">Tocca per passare alla selezione di un giorno</string>        
+     <string name="mtrl_picker_toggle_to_text_input_mode">Passa alla modalità di immissione del testo</string>        
+     <string name="mtrl_picker_toggle_to_year_selection">Tocca per passare alla selezione di un anno</string>
+     <string name="password_toggle_content_description">Mostra password</string>
+     <string name="path_password_eye">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
+     <string name="path_password_eye_mask_strike_through">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+     <string name="path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+     <string name="path_password_strike_through">M3.27,4.27 L19.74,20.74</string>
+     <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d nuove notifiche</item>
+        <item quantity="one">%d nuove notifiche</item>
+     </plurals>
+    <plurals name="a_hour_ago">
+        <item quantity="one">un\'ora fa</item>
+        <item quantity="other">un\'ora fa</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="one">un\'ora fa</item>
+        <item quantity="other">un\'ora fa</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="one">mezz\'ora fa</item>
+        <item quantity="other">mezz\'ora fa</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="one">Tra 1 ora</item>
+        <item quantity="other">Tra 1 ora</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="one">Tra mezz\'ora</item>
+        <item quantity="other">Tra mezz\'ora</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="one">Subito</item>
+        <item quantity="other">adesso</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">tra %d minuti</item>
+        <item quantity="one">tra 1 minuto</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="one">Proprio adesso</item>
+        <item quantity="other">ora</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d minuti fa</item>
+        <item quantity="one">1 minuto fa</item>
+    </plurals>
+    <plurals name="alarm_alert_snooze_set">
+        <item quantity="other">Sospensione per %d minuti.</item>
+        <item quantity="one">Sospensione per %d minuto.</item>
+    </plurals>
+    <plurals name="day">
+        <item quantity="other">%d giorni</item>
+        <item quantity="one">%d giorno</item>
+    </plurals>
+    <plurals name="delete_alarm_confirm">
+        <item quantity="other">Eliminare le sveglie selezionate?</item>
+        <item quantity="one">Eliminare questa sveglia?</item>
+    </plurals>
+    <plurals name="delete_timezone_confirm">
+        <item quantity="other">Eliminare i fusi orari selezionati?</item>
+        <item quantity="one">Eliminare questo fuso orario?</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="one">mezz\'ora fa</item>
+        <item quantity="other">mezz\'ora fa</item>
+    </plurals>
+    <plurals name="hour">
+        <item quantity="other">%d ore</item>
+        <item quantity="one">%d ora</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="one">Tra 1 ora</item>
+        <item quantity="other">Tra 1 ora</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="one">Tra mezz\'ora</item>
+        <item quantity="other">Tra mezz\'ora</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="one">Subito</item>
+        <item quantity="other">adesso</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">tra %d minuti</item>
+        <item quantity="one">tra 1 minuto</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="one">Proprio adesso</item>
+        <item quantity="other">ora</item>
+    </plurals>
+    <plurals name="life_post_wake_up_item_acumu_day">
+        <item quantity="other">%1$d giorni</item>
+        <item quantity="one">%1$d giorno</item>
+    </plurals>
+    <plurals name="minute">
+        <item quantity="other">%d minuti</item>
+        <item quantity="one">%d minuto</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d elementi selezionati</item>
+        <item quantity="one">%d elemento selezionato</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d minuti fa</item>
+        <item quantity="one">1 minuto fa</item>
+    </plurals>
+    <plurals name="second">
+        <item quantity="other">%d secondi</item>
+        <item quantity="one">%d secondo</item>
+    </plurals>
+    <plurals name="sleep_duration_hour">
+        <item quantity="other">%1$s ore</item>
+        <item quantity="one">%1$s ora</item>
+    </plurals>
+    <plurals name="sleep_duration_hour_avg">
+        <item quantity="other">%1$s ore</item>
+        <item quantity="one">%1$s ora</item>
+    </plurals>
+    <plurals name="sleep_duration_min">
+        <item quantity="other">%1$s minuti</item>
+        <item quantity="one">%1$s minuto</item>
+    </plurals>
+    <plurals name="sleep_duration_min_avg">
+        <item quantity="other">%1$s min</item>
+        <item quantity="one">%1$s min</item>
+    </plurals>
+    <plurals name="snooze_duration_changed_info">
+        <item quantity="other">Cambiato intervallo di sospensione a %d minuti</item>
+        <item quantity="one">Cambiato intervallo di sospensione a %d minuto</item>
+    </plurals>
+    <plurals name="snooze_duration_count">
+        <item quantity="other">Disattiva %1$s volte</item>
+        <item quantity="one">Disattiva %1$s volta</item>
+    </plurals>
+    <plurals name="snooze_duration_desc">
+        <item quantity="other">Ogni %1$s min, disattiva %2$s volte</item>
+        <item quantity="one">Ogni %1$s min, disattiva %2$s volta</item>
+    </plurals>
+    <plurals name="snooze_duration_min">
+        <item quantity="other">Ogni %1$s min</item>
+        <item quantity="one">Ogni %1$s min</item>
+    </plurals>
+    <plurals name="snooze_duration_summary">
+        <item quantity="other">La sveglia verrà disattivata %2$s volte (%1$s min. ciascuna)</item>
+        <item quantity="one">La sveglia verrà disattivata %2$s volte (%1$s min.)</item>
+    </plurals>
+    <plurals name="snooze_message">
+        <item quantity="other">Sospendi per %d minuti</item>
+        <item quantity="one">Sospendi per %d minuto</item>
+    </plurals>
+    <plurals name="stopwatch_running_notification_day">
+        <item quantity="other">Il cronometro è in funzione da %s giorni. Tocca per visualizzare. </item>
+        <item quantity="one">Il cronometro è in esecuzione da %s giorno. Tocca per visualizzare. </item>
+    </plurals>
+    <plurals name="stopwatch_running_notification_hour">
+        <item quantity="other">Il cronometro è in funzione da %s ore. Tocca per visualizzare. </item>
+        <item quantity="one">Il cronometro è in funzione da %s ora. Toccare per visualizzare .</item>
+    </plurals>
+    <plurals name="timer_message_hour">
+        <item quantity="other">"%1$d ore "</item>
+        <item quantity="one">"%1$d ora "</item>
+    </plurals>
+    <plurals name="timer_message_minute">
+        <item quantity="other">"%1$d minuti "</item>
+        <item quantity="one">"%1$d minuto "</item>
+    </plurals>
+    <plurals name="timer_message_second">
+        <item quantity="other">%1$d secondi</item>
+        <item quantity="one">%1$d secondo</item>
+    </plurals>
+    <plurals name="worldcolock_timezone_gap_fast">
+        <item quantity="other">%s ore avanti</item>
+        <item quantity="one">%s ora avanti</item>
+    </plurals>
+    <plurals name="worldcolock_timezone_gap_slow">
+        <item quantity="other">%s ore indietro</item>
+        <item quantity="one">%s ora indietro</item>
+    </plurals>
+</resources>

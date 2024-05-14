@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="attachment_chooser">
+        <item>Fotocamera</item>
+        <item>Galleria</item>
+    </string-array>
+    <string-array name="common_folder_operations">
+        <item>Nuova</item>
+        <item>Rinomina</item>
+        <item>删除</item>
+    </string-array>
+    <string-array name="contact_entries">
+        <item>Nome</item>
+        <item>Soprannome</item>
+        <item>Telefono</item>
+        <item>E-mail</item>
+        <item>Società</item>
+        <item>Chat</item>
+        <item>Telefono SIP</item>
+        <item>Compleanno</item>
+        <item>Sito web</item>
+        <item>Indirizzo</item>
+        <item>Nota</item>
+    </string-array>
+    <string-array name="first_guide_contents">
+        <item>Benvenuto in Note!</item>
+        <item>Scrivi note</item>
+        <item>Puoi utilizzare testo, immagini e registrazioni vocali nelle tue note. Una ricca libreria di stili e caratteri renderà sbalorditivi i tuoi basilari scarabocchi.</item>
+        <item>Liste di controllo e promemoria ti verranno in aiuto quando avrai bisogno di strumenti di base ed efficaci per pianificare il tuo prossimo viaggio o mettere insieme una lista della spesa.</item>
+        <item>Condividi le note</item>
+        <item>Potrai generare automaticamente schermate estese sulle tue note e condividerle con i tuoi amici.</item>
+        <item>Crea e passa fra le cartelle</item>
+        <item>Premi la freccia in basso per creare una nuova cartella o passare da una esistente ad un\'altra.</item>
+    </string-array>
+    <string-array name="folder_operations">
+        <item>Rinomina</item>
+        <item>Elimina</item>
+    </string-array>
+    <string-array name="font_size_names">
+        <item>Piccolo</item>
+        <item>Medio</item>
+        <item>Largo</item>
+        <item>Testo molto grande</item>
+    </string-array>
+    <string-array name="note_sort_way">
+        <item>Per data di creazione</item>
+        <item>Per data di modifica</item>
+    </string-array>
+    <string-array name="second_guide_contents">
+        <item>Note vocali</item>
+        <item>Crea note utilizzando il nostro motore di sintesi vocale incorporato che allega registrazioni originali della tua voce.</item>
+    </string-array>
+    <string-array name="second_guide_contents_pad_or_inter">
+        <item>Note vocali</item>
+        <item>Puoi creare note vocali ora. Basterà toccare l\'icona, registrare la tua voce e salvare il file audio all\'interno della nota.</item>
+    </string-array>
+    <string-array name="system_folder_operations">
+        <item>Nuova</item>
+    </string-array>
+</resources>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string-array name="multi_floating_package_allow_list">
+        <item>com.miui.securitycenter</item>
+        <item>com.miui.weather2</item>
+        <item>com.android.calendar</item>
+        <item>com.android.contacts</item>
+        <item>com.android.mms</item>
+        <item>com.miui.notes</item>
+        <item>com.android.settings</item>
+        <item>com.miui.gallery</item>
+        <item>com.miui.cloudservice</item>
+     </string-array>
+    <string-array name="ble_package_names">
+        <item></item>
+        <item>Mi Fit</item>
+        <item>Mi VR</item>
+        <item>Xiaomi Wear</item>
+    </string-array>
+    <string-array name="ble_profile_mi_band">
+        <item>Vibra quando suona</item>
+        <item>Vibra quando ricevi un messaggio</item>
+        <item>Vibra con le sveglie</item>
+    </string-array>
+    <string-array name="ble_profile_mi_key">
+        <item>Scatta foto</item>
+        <item>Trova telefono</item>
+        <item>Trova Mi-key</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_titles">
+        <item>Usa impostazione di sistema (Predefinito)</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>Audio Qualcomm® aptX™</item>
+        <item>Audio Qualcomm® aptX™ HD</item>
+        <item>LDAC</item>
+    </string-array>
+    <string-array name="bluetooth_audio_active_device_summaries">
+        <item></item>
+        <item> | Attivo</item>
+        <item> | Attivo (media)</item>
+        <item> | Attivo (telefono)</item>
+    </string-array>
+</resources>
