@@ -51,7 +51,7 @@
      <string name="color_effect_entry_negative_film">Negativo</string>
      <string name="color_effect_entry_warm_blue">Sogno blu</string>
      <string name="com.google.firebase.crashlytics.mapping_file_id">00000000000000000000000000000000</string>
-     <string name="common_google_play_services_enable_button">Abilitare</string>    
+     <string name="common_google_play_services_enable_button">Abilita</string>    
      <string name="common_google_play_services_enable_text">"%1$s non funzionerà se non abiliti i servizi Google Play."</string>
      <string name="common_google_play_services_enable_title">Abilita i servizi Google Play</string>
      <string name="common_google_play_services_install_button">Installare</string>  
@@ -140,10 +140,9 @@
     <string name="google_app_id">1:951749205167:android:52de578f17abb873ab485a</string>
     <string name="google_crash_reporting_api_key">AIzaSyDruW4jY9tcbtbqndR39QJryoM2H8XsBn4</string>
     <string name="google_storage_bucket">camera-77120.appspot.com</string>
-    <string name="guide_pop_window_msg_cinematic">xxxxxxxxxxxxx</string>
+    <string name="guide_pop_window_msg_cinematic">Tocca per attivare la modalità MasterCinema </string>
     <string name="guide_pop_window_msg_exposure_mode">xxxxxx</string>
-    <string name="guide_pop_window_msg_picture_style">"xxxxx
-xxxxxxxxxx"</string>
+    <string name="guide_pop_window_msg_picture_style">Cliccando si applicano gli stili fotografici personalizzati</string>
     <string name="guide_pop_window_msg_picture_style_add">Salvare i parametri attuali come preimpostazione</string>
     <string name="hide_bottom_view_on_scroll_behavior">com.google.android.material.behavior.HideBottomViewOnScrollBehavior</string>
     <string name="exposed_dropdown_menu_content_description">Mostra menu a discesa</string>
