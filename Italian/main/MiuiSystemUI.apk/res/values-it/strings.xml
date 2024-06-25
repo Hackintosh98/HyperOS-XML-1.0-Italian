@@ -41,9 +41,9 @@
      <string name="format_minute_desc">%S</string>
      <string name="format_month_day_desc">%1$s %2$s</string>
      <string name="format_month_day_lunar_calendar_month_day_desc">%1$s %2$s, data secondo il calendario tradizionale cinese: %3$s, festività: %4$s</string>
-     <string name="format_month_day_style1">MMM/g</string>
+     <string name="format_month_day_style1">MMM/d</string>
      <string name="format_month_day_style2">M/d</string>
-     <string name="format_month_day_week">MMM gg, EEE</string>
+     <string name="format_month_day_week">MMM dd, EEE</string>
      <string name="format_month_day_week_desc">%1$s %2$s, %3$s</string>
      <string name="format_month_day_week_lunar_calendar_month_day_desc">%1$s %2$s, %3$s, data secondo il calendario tradizionale cinese: %4$s</string>
      <string name="format_month_day_week_solar_desc">%1$s %2$s, %3$s, festività: %4$s</string>
