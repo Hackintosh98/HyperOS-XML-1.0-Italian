@@ -74,9 +74,6 @@
      <string name="keyguard_editor_super_save_mode_toast">"Impossibile modificare la schermata di blocco quando è attivo il risparmio energetico Ultra"</string>
      <string name="keyguard_loading_to_editor_tips">Apertura dell'editor della schermata di blocco…</string>
      <string name="kg_wrong_pin">PIN sbagliato</string>
-     <string name="miui_clock_time_format_12">eh: mm</string>
-     <string name="miui_clock_time_format_24">OO:mm</string>
-     <string name="miui_lock_empty" /><string name="miui_lock_empty" />
      <string name="miui_lock_solar_term_autumn_begins">inizio autunno</string>
      <string name="miui_lock_solar_term_autumn_equinox">equinozio d'autunno</string>
      <string name="miui_lock_solar_term_clear_and_bright">Qingming</string>
@@ -105,7 +102,7 @@
      <string name="miui_magazine_c_clock_style2_date">M/d EE</string>
      <string name="miui_magazine_c_clock_style2_date_content_description">EEEE, MMM gg</string>
      <string name="miui_magazine_clock_date">M/d</string>
-     <string name="miui_magazine_clock_date_content_description">MM/gg</string>
+     <string name="miui_magazine_clock_date_content_description">MM/dd</string>
      <string name="miui_magazine_clock_week">EEE</string>
      <string name="miui_quick_settings_tiles_default_international">cell,wifi,bt,airplane,mute,flashlight,screenshot,batterysaver,night,rotation,controls,custom(com.miui.screenrecorder/.service.QuickService),custom(com.milink.service/com.milink.ui.service.MiLinkTileService),hotspot,settings,wallet,scanner,custom(com.google.android.gms/.nearby.sharing.SharingTileService),quietmode,edit</string>
      <string name="miui_quick_settings_tiles_default_pad_international">cell,wifi,bt,airplane,mute,flashlight,screenshot,batterysaver,night,rotation,controls,custom(com.miui.screenrecorder/.service.QuickService),custom(com.milink.service/com.milink.ui.service.MiLinkTileService),hotspot,dtmdtm,settings,wallet,scanner,custom(com.google.android.gms/.nearby.sharing.SharingTileService),quietmode,edit</string>
