@@ -100,7 +100,7 @@
      <string name="miui_lock_solar_term_winter_solstice">solstizio d'inverno</string>
      <string name="miui_magazine_c_clock_style1_week">EEEE</string>
      <string name="miui_magazine_c_clock_style2_date">M/d EE</string>
-     <string name="miui_magazine_c_clock_style2_date_content_description">EEEE, MMM gg</string>
+     <string name="miui_magazine_c_clock_style2_date_content_description">EEEE, MMM dd</string>
      <string name="miui_magazine_clock_date">M/d</string>
      <string name="miui_magazine_clock_date_content_description">MM/dd</string>
      <string name="miui_magazine_clock_week">EEE</string>
