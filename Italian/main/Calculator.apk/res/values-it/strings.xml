@@ -494,7 +494,7 @@ Le regioni più svantaggiate di un anno e di cinque anni saranno citate il 20 di
     <string name="mulDesc">moltiplica</string>
     <string name="n_a">N/D</string>
     <string name="name_amount">Ammontare</string>
-    <string name="name_discount">Sconto (% di sconto)</string>
+    <string name="name_discount">Sconto (%s)</string>
     <string name="name_is">Risultato</string>
     <string name="name_of">Totale</string>
     <string name="name_original">Prezzo originale</string>
