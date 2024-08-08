@@ -70,10 +70,8 @@
      <string name="credman_autofill_keywords">automatico, compilazione, compilazione automatica, dati, passkey, password</string>
      <string name="credman_chosen_app_title">Password, passkey e servizi dati</string>
      <string name="credman_picker_title">Password, passkey e servizi dati</string>
-     <string name="dark_mode_settings">Opzioni della modalità oscura</string>
      <string name="default_font_title_global">Predefinito</string>
      <string name="device_details_leaudio_toggle_summary">Sperimentale. Migliora la qualità dell'audio.</string>
-     <string name="display_settings_new">Visualizzazione e visualizzazione luminosità</string>
      <string name="doublepress_summary">Riproduci e metti in pausa la riproduzione</string>
      <string name="doublepress_title">Esegui un movimento di doppia pressione</string>
      <string name="easymode_hint_summary">Tocca per disattivare</string>
@@ -129,10 +127,6 @@
      <string name="miui_tof_screen_on_success_toast">L'opzione "Riconosci volto quando vicino al dispositivo" è attiva. Per la tua privacy, attiva anche "Resta nella schermata di blocco dopo lo sblocco".</string>  
      <string name="miui_tof_screen_on_title">Riconosci il volto quando sei vicino al dispositivo</string>
      <string name="mobile_data_settings_summary_on_smart_dds_unavailable">Non disponibile durante una chiamata quando l'interruttore DDS intelligente è attivo</string>
-     <string name="more_connection">Più opzioni di connettività</string>
-     <string name="more_volume_settings">Regolazione del volume</string>
-     <string name="multi_music_coexistence_summary">"Non regolare il volume dei contenuti multimediali durante le notifiche in arrivo o durante la riproduzione dell'audio da un'altra sorgente"</string>
-     <string name="multi_music_coexistence_title">Molteplici sorgenti audio</string>
      <string name="my_device_camera_params">Specifiche della fotocamera</string>
      <string name="my_device_front_camera">Fotocamera frontale</string>
      <string name="my_device_guarantee">periodo di garanzia</string>
@@ -143,7 +137,6 @@
      <string name="not_connected_to_wifi">Non connesso al Wi-Fi</string>
      <string name="notice_broadcast_audio_stopped">Interruzione della trasmissione dell'audio</string>
      <string name="notification_app_permissions">Autorizzazioni di notifica</string>
-     <string name="notification_control_center_new">Notifiche e notifiche barra di stato</string>
      <string name="notification_status_bar">Notifiche e notifiche barra di stato</string>
      <string name="notification_style_settings">Stile di notifica</string>
      <string name="os_version">Versione del sistema operativo</string>
@@ -171,10 +164,6 @@
      <string name="sunlight_mode_boost_summary">Espandi la gamma di luminosità e regola automaticamente la luminosità in condizioni luminose. Questa funzione farà sì che il tuo dispositivo si surriscaldi e consumi più energia.</string>
      <string name="supported_app_title">App supportate</string>
      <string name="system_sound_effect_settings">Suoni di sistema</string>
-     <string name="title_quick_control_all_devices">Mostra i controlli per i dispositivi nelle vicinanze</string>
-     <string name="title_show_notification_icon">Mostra le icone di notifica</string>
-     <string name="title_smart_device_control">Controlli del dispositivo intelligente</string>
-     <string name="title_wordless_mode">"Non mostrare le etichette delle icone"</string>
      <string name="tof_gesture_cue_tone_summary">Riproduci un suono di conferma ogni volta che viene rilevato il palmo della mano</string>
      <string name="tof_gesture_cue_tone_title">Riproduci il suono di conferma</string>
      <string name="tofgesture_description_summary" formatted="false">Quando il dispositivo è in modalità orizzontale, tieni la mano da %d a %d cm dalla fotocamera ed esegui i gesti dopo che l'icona della mano viene visualizzata nella parte superiore dello schermo.</string>
@@ -785,8 +774,6 @@ Se questa autorizzazione è disattivata, gli avvisi esistenti e gli eventi basat
   <string name="app_and_notification_dashboard_summary">Permessi, app predefinite</string>
   <string name="app_backup">Backup</string>
   <string name="app_bluetooth_device_blacklist">Blocco dispositivi Bluetooth</string>
-  <string name="app_cache_optimization">Ottimizzazione cache delle app</string>
-  <string name="app_cache_optimization_summary">Dopo aver attivato questa funzione, riavvia il dispositivo affinché diventi effettiva</string>
   <string name="app_cellular_data_usage">Utilizzo dati app</string>
   <string name="app_default_dashboard_title">Predefiniti</string>
   <string name="app_detail">Dettagli</string>
@@ -1024,8 +1011,6 @@ Per limitare l'app, dovrai innanzitutto attivare l'ottimizzazione della batteria
   <string name="background_activity_summary">Consenti alle app di essere eseguite in background</string>
   <string name="background_activity_warning_dialog_text">Se si limita l'attività in background per un'app, questa potrebbe comportarsi in maniera imprevista</string>
   <string name="background_activity_warning_dialog_title">Limitare attività in background?</string>
-  <string name="background_blur_enable">Textures avanzate</string>
-  <string name="background_blur_enable_summary">Aggiunge effetti di rendering come la sfocatura nel sistema per fornire un'esperienza visiva migliorata</string>
   <string name="background_check_pref">Controllo background</string>
   <string name="background_data">Dati in background</string>
   <string name="background_data_dialog_message">La disattivazione dei dati in background aumenta la durata della batteria e riduce l'utilizzo dei dati. Alcune applicazioni potrebbero utilizzare comunque la connessione dati in background.</string>
@@ -1361,7 +1346,6 @@ Non ti sei mai connesso a %2$s prima.</string>
   <string name="bluetooth_devices_card_off_title">Bluetooth disattivato</string>
   <string name="bluetooth_disable_a2dp_hw_offload">Disattiva l'offload dell'hardware Bluetooth A2DP</string>
   <string name="bluetooth_disable_absolute_volume">Disabilita volume assoluto</string>
-  <string name="bluetooth_disable_absolute_volume_summary">Disabilita il volume assoluto Bluetooth nel caso che un dispositivo remoto lo imposti ad un livello inaccettabile o in caso di perdita di controllo.</string>
   <string name="bluetooth_disable_absolute_volume_summary">Disattiva il volume assoluto per Bluetooth in caso di problemi di volume con i dispositivi remoti, come volume inaccettabilmente alto o incapacità di controllarlo.</string>
   <string name="bluetooth_disable_hw_offload_dialog_cancel">Annulla</string>
   <string name="bluetooth_disable_hw_offload_dialog_confirm">Riavvia</string>
@@ -1711,9 +1695,7 @@ Puoi disattivare questa funzione in Impostazioni &gt; Bluetooth &gt; Dispositivi
   <string name="bt_audiorepair_working">Correzione di interruzioni audio…</string>
   <string name="bt_dialog_remember_choice">Non mostrare più</string>
   <string name="bt_dialog_settings">Impostazioni</string>
-  <string name="bt_half_close_switch_summary">Se disattivi il Bluetooth, si riattiverà automaticamente il giorno successivo e i tuoi dispositivi si ricollegheranno</string>
   <string name="bt_half_close_switch_title">Mantieni sempre il Bluetooth attivo</string>
-  <string name="bt_hci_snoop_log">Bluetooth HCI snoop log</string>
   <string name="bt_hci_snoop_log_filter_map_title">Bluetooth HCI snoop log filtering MAP</string>
   <string name="bt_hci_snoop_log_filter_pbap_title">Bluetooth HCI snoop log filtering PBAP</string>
   <string name="bt_hci_snoop_log_filter_summary">Imposta la modalità di filtraggio. (Disabilitare e abilitare il Bluetooth affinché le modifiche abbiano effetto)</string>
@@ -3206,7 +3188,6 @@ rivolgiti verso lo schermo esterno</string>
   <string name="fingerprint_enroll_button_add">Aggiungi</string>
   <string name="fingerprint_enroll_button_next">Successivo</string>
   <string name="fingerprint_face_password_unlock">Blocco schermo</string>
-  <string name="fingerprint_face_password_unlock_new">Blocco schermo</string>
   <string name="fingerprint_first_open_screen_password_face_tittle">Biometrica (imposta prima la password della schermata di blocco)</string>
   <string name="fingerprint_first_open_screen_password_tittle">Impronta (imposta una password per la Schermata di blocco prima di utilizzarla)</string>
   <string name="fingerprint_for_keyguard_disabled">Il lettore impronte è stato disabilitato nelle impostazioni di sicurezza.</string>
@@ -3789,7 +3770,6 @@ Apri Xiaomi Cloud e ripristina gli elementi da lì.</string>
   <string name="ingress_rate_limit_no_limit_entry">Illimitata</string>
   <string name="ingress_rate_limit_summary">Configurare il limite di velocità di ingresso della larghezza di banda della rete applicato a tutte le reti che forniscono connettività Internet.</string>
   <string name="ingress_rate_limit_title">Limite di velocità di download della rete</string>
-  <string name="inner_screen_and_resolution_title">Dimensioni e risoluzione dello schermo interno</string>
   <string name="input_assistance">Utilità</string>
   <string name="input_device_category">Dispositivo di immissione</string>
   <string name="input_method">Tastiera</string>

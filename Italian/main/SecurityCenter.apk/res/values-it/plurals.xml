@@ -4,10 +4,6 @@
         <item quantity="other">%d elementi</item>
         <item quantity="one">%d elemento</item>
      </plurals>
-          <plurals name="pc_can_be_optimize_numbers">
-        <item quantity="other">%d elementi</item>
-        <item quantity="one">%d elemento</item>
-     </plurals>
      <plurals name="permission_usage_allow_activity_recognization">
         <item quantity="other">%1$s | Questa app ha avuto accesso alle informazioni sul tuo allenamento %2$d volte</item>
         <item quantity="one">%1$s | Questa app ha avuto accesso alle informazioni sul tuo allenamento %2$d volta</item>

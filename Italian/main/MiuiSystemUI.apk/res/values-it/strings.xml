@@ -419,7 +419,6 @@
     <string name="accessibility_quick_settings_bluetooth_off">Bluetooth disattivato.</string>
     <string name="accessibility_quick_settings_bluetooth_on">Bluetooth attivato.</string>
     <string name="accessibility_quick_settings_close">Chiudi pannello.</string>
-    <string name="accessibility_quick_settings_collapse">Chiudi impostazioni rapide.</string>
     <string name="accessibility_quick_settings_color_inversion_changed_off">Inversione colore disattivata.</string>
     <string name="accessibility_quick_settings_color_inversion_changed_on">Inversione colore attivata.</string>
     <string name="accessibility_quick_settings_data_saver_changed_off">Risparmio dati disattivato.</string>
@@ -1281,14 +1280,10 @@ Inserisci il PIN per sbloccare."</string>
     <string name="gxzw_quick_close">Chiudi</string>
     <string name="gxzw_quick_open_add_event">Aggiungi evento</string>
     <string name="gxzw_quick_open_add_event_sub">Calendario</string>
-    <string name="gxzw_quick_open_add_note">Aggiungi nota</string>
-    <string name="gxzw_quick_open_add_note_sub">Note</string>
     <string name="gxzw_quick_open_alipay_pay">Codice di pagamento</string>
     <string name="gxzw_quick_open_alipay_pay_sub">Alipay</string>
     <string name="gxzw_quick_open_alipay_scan">Scanner</string>
     <string name="gxzw_quick_open_alipay_scan_sub">Alipay</string>
-    <string name="gxzw_quick_open_dialer">Tastierino numerico</string>
-    <string name="gxzw_quick_open_dialer_sub">Telefono</string>
     <string name="gxzw_quick_open_qr_code">Codice QR</string>
     <string name="gxzw_quick_open_qr_code_sub">Scanner</string>
     <string name="gxzw_quick_open_search">Cerca</string>
@@ -1587,7 +1582,6 @@ Riprova tra %2$d secondi."</string>
 Riprova tra %2$d secondi."</string>
     <string name="kg_wrong_password">Password errata</string>
     <string name="kg_wrong_pattern">Sequenza errata</string>
-    <string name="kg_wrong_pin">PIN errato</string>
     <string name="kilobyte_per_second">K/s</string>
     <string name="label_view">Mostra</string>
     <string name="launch_defaults_none">Nessuna impostazione predefinita</string>
@@ -1783,15 +1777,10 @@ mm"</string>
     <string name="miuix_appcompat_action_mode_select_all">Seleziona tutto</string>
     <string name="miuix_appcompat_action_mode_title_empty">Seleziona elementi</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Altro</string>
-    <string name="miuix_appcompat_cancel_description">Annulla</string>
-    <string name="miuix_appcompat_confirm_description">Conferma</string>
-    <string name="miuix_appcompat_delete_description">Elimina</string>
     <string name="miuix_appcompat_deselect_all">Deseleziona</string>
-    <string name="miuix_appcompat_deselect_all_description">Deseleziona tutto</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Annulla</string>
     <string name="miuix_appcompat_search_input_description">Cerca</string>
     <string name="miuix_appcompat_select_all">Seleziona tutto</string>
-    <string name="miuix_appcompat_select_all_description">Seleziona tutto</string>
     <string name="miuix_appcompat_select_item">Seleziona elementi</string>
     <string name="miuix_indexer_collect">Raccolte</string>
     <string name="miuix_indexer_selected">Selezionato %s</string>
@@ -2653,7 +2642,6 @@ d MMM"</string>
     <string name="sunday_shortest">Dom</string>
     <string name="switch_bar_off">Spenta</string>
     <string name="switch_bar_on">Attivata</string>
-    <string name="switch_system_user">Apri Primo Spazio</string>
     <string name="symbol_colon">:</string>
     <string name="system_ui_aod_date_pattern">dMMMEEE</string>
     <string name="system_ui_tuner">Messa a punto UI di Sistema</string>
