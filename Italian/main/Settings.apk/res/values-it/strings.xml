@@ -1695,7 +1695,6 @@ Puoi disattivare questa funzione in Impostazioni &gt; Bluetooth &gt; Dispositivi
   <string name="bt_audiorepair_working">Correzione di interruzioni audio…</string>
   <string name="bt_dialog_remember_choice">Non mostrare più</string>
   <string name="bt_dialog_settings">Impostazioni</string>
-  <string name="bt_half_close_switch_title">Mantieni sempre il Bluetooth attivo</string>
   <string name="bt_hci_snoop_log_filter_map_title">Bluetooth HCI snoop log filtering MAP</string>
   <string name="bt_hci_snoop_log_filter_pbap_title">Bluetooth HCI snoop log filtering PBAP</string>
   <string name="bt_hci_snoop_log_filter_summary">Imposta la modalità di filtraggio. (Disabilitare e abilitare il Bluetooth affinché le modifiche abbiano effetto)</string>
