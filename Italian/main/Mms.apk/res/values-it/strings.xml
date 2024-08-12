@@ -1565,7 +1565,7 @@ Dai un'occhiata alle app consigliate!"</string>
     <string name="xiaomi_account_service_retry_main_purpose">I servizi Mi Account devono essere attivati perché questa funzione funzioni normalmente. È possibile attivare i servizi Mi Account in Impostazioni &gt; Gestione applicazioni.</string>
     <string name="xiaomi_market_sdk_update_dialog_cancel">Annulla</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Ok</string>
-    <string name="xiaomi_market_sdk_update_dialog_title">%s nuova versione</string>
+    <string name="xiaomi_market_sdk_update_dialog_title">Aggiornamento disponibile</string>
     <string name="yellowpage_recommend_msg">"Prova le funzionalità SMS di MIUI"</string>
     <string name="yes">OK</string>
     <string name="yesterday">Ieri</string>

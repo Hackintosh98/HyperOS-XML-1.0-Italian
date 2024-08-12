@@ -1824,7 +1824,7 @@ Tocca \"<b>Sincronizza adesso</b> per sincronizzare le mail una volta, o <b>Modi
     <string name="xiaomi_email">E-Mail</string>
     <string name="xiaomi_market_sdk_update_dialog_cancel">Annulla</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Ok</string>
-    <string name="xiaomi_market_sdk_update_dialog_title">%s nuova versione</string>
+    <string name="xiaomi_market_sdk_update_dialog_title">Aggiornamento disponibile</string>
     <string name="yes">Sì</string>
     <string name="yesterday">Ieri</string>
     <string name="you_are_in_mobile_network">Utilizzare i dati per caricare i log?</string>

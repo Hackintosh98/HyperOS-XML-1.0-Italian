@@ -1221,6 +1221,6 @@ mm"</string>
     <string name="wp_lockscreen_enable_title">Diapositive schermata di blocco</string>
     <string name="xiaomi_market_sdk_update_dialog_cancel">Annulla</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Ok</string>
-    <string name="xiaomi_market_sdk_update_dialog_title">%s nuova versione</string>
+    <string name="xiaomi_market_sdk_update_dialog_title">Aggiornamento disponibile</string>
     <string name="yesterday">Ieri</string>
 </resources>
