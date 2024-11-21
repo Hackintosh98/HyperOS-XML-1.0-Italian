@@ -523,7 +523,7 @@
     <string name="save_to_gallery_icon_name">Salva in Galleria</string>
     <string name="save_to_gallery_success_message">Salvataggio in Galleria riuscito</string>
     <string name="search_menu_title">Cerca</string>
-    <string name="select_show_city">请选择省市</string>
+    <string name="select_show_city">Seleziona la località</string>
     <string name="send">Invia</string>
     <string name="set_degree_centigrade">°C</string>
     <string name="set_fahrenheit">°F</string>
